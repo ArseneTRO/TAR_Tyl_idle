@@ -1,12 +1,14 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class YokaiManager : MonoBehaviour
 {
     public int yokaiTotalNumber;
     public TextMeshProUGUI yokaiText;
     public List<YokaiScript> yokais;
+    public GoldButtonScript GoldAmount;
 
     void Update()
     {
@@ -17,5 +19,10 @@ public class YokaiManager : MonoBehaviour
         }
 
         yokaiText.text = yokaiTotalNumber.ToString();
+
+
+        
     }
+
+
 }

@@ -12,9 +12,10 @@ public class YokaiScript : MonoBehaviour
     public GoldButtonScript GoldAmount;
     public GameObject go;
     public bool Pause;
-    public int Temps;
+    public float Temps;
     public int Price;
     public int Value;
+    public Image icon;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -23,6 +24,19 @@ public class YokaiScript : MonoBehaviour
         YK = 0;
 
         Pause = false;
+        icon = GetComponent<Image>();
+    }
+
+    void Update()
+    {
+        if (GoldAmount.Wallet >= Price)
+        {
+            icon.color = Color.white;
+        }
+        else
+        {
+            icon.color = Color.black;
+        }
     }
 
     public void MettrePause()
@@ -39,7 +53,7 @@ public class YokaiScript : MonoBehaviour
             {
                 Yokai();
             }
-            yield return new WaitForSeconds(Temps);
+            yield return new WaitForSeconds(Temps); 
         }
     }
     public void Yokai()
