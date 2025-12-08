@@ -10,20 +10,20 @@ public class YokaiScript : MonoBehaviour
 {
     public int YK;
     public GoldButtonScript GoldAmount;
-    public GameObject go;
-    public bool Pause;
     public float Temps;
     public int Price;
     public int Value;
     public Image icon;
+    public bool Pause;
+    public GameObject go;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         StartCoroutine(MyCoroutine());
         YK = 0;
-
         Pause = false;
+
         icon = GetComponent<Image>();
     }
 
@@ -39,7 +39,7 @@ public class YokaiScript : MonoBehaviour
         }
     }
 
-    public void MettrePause()
+     public void MettrePause()
     {
         Pause = !Pause;
         go.SetActive(Pause);
