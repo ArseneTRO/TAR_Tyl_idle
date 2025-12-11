@@ -36,7 +36,7 @@ public class GoldButtonScript : MonoBehaviour
     {
         if (Wallet > 10)
         {
-            Wallet = Wallet - Price;
+            Wallet -= Price;
             Power += 1;
         }
 
