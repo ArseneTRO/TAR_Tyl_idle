@@ -7,9 +7,11 @@ using System.Collections;
 public class GoldButtonScript : MonoBehaviour
 {
     public TextMeshProUGUI goldText;
+    public TextMeshProUGUI WalletShop;
     public int Wallet;
     public int Power;
     public int Price;
+    public Shop Shop;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -21,6 +23,7 @@ public class GoldButtonScript : MonoBehaviour
     void Update()
     {
        goldText.text = Wallet.ToString("00");
+       WalletShop.text = Wallet.ToString("Wallet : 00");
     }
     public void Gold()
     {

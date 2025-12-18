@@ -1,0 +1,7377 @@
+fileFormatVersion: 2
+guid: 86fb2e111625f094f93539a49439e1b2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea9d42f0ba5801498bcd7cd36b1e5a7
+      internalID: 1657207230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de23079cad05896478cd82a5ea20efbe
+      internalID: 723746270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb63dde72e5646f4886c1102b20203a9
+      internalID: 1706215085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaad5c1ac288f7d49b6c046fa11df968
+      internalID: -1874198055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade12f4f74b892942b01e765525b6b4e
+      internalID: -2041442654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1edca2d73193ed4e8a42e4120c444ac
+      internalID: 921933791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6c6cb058373164e9b2bd9c8819c40c
+      internalID: 282058558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c328e12450afaed4e91db8225b654745
+      internalID: -1246185894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afdbbb7a40725a40b8eea7ffd418aa1
+      internalID: 446726261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139380005aae53f41bde7fc59d720a65
+      internalID: -601725588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_10
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f91f4252ada7d44a82554e30b01ca6d
+      internalID: 1608253864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf0e741c9b4b4b42829797ec2241884
+      internalID: -1809246552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4318042298a0d643b0cd999fc282a3d
+      internalID: 941658835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_13
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c4e3af4a1bd604cab5068d3b558fa3
+      internalID: -1011820001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_14
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1301
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28db1c95158a5264cabbc5a8e9a99bcd
+      internalID: 1731276313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74373098d45070c4596a3c7548463a98
+      internalID: -1562696373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460ec21f22ba95b4cb82566ab0cea578
+      internalID: 331726353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb9c60391dc1884abcbc8fd6ac00d38
+      internalID: 57584776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c435ff1f23d314bb698ca74f4883af
+      internalID: -795907149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8ab2b38d8719b42a7876cea76ece55
+      internalID: 1868244168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb247d2ca2a2884ab2ab5936557b3c9
+      internalID: -930473101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc69d587fe009304798755f378e2b3c2
+      internalID: -3813886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7732b7a5d0f6a945834e5b4510180b7
+      internalID: -734162992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_23
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327087a635fda7a4e8a4609ac27ba02a
+      internalID: 96345646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_24
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf85cd4de1529f448214d00db6c0a60
+      internalID: 838697439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_25
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e43de1391a7fb4787a04d7d330d1c8
+      internalID: 1782355810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_26
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d05ca4eff82b8479e9c99a2f431736
+      internalID: -1894892369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15113ea5efbb04e47a9a096e58144696
+      internalID: 251122981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_28
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515b2108214a20d489c24a011389eac3
+      internalID: -1599250430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_29
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1236
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa491792870b93418177bd164fd2a2d
+      internalID: -649598377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774229e2c1462334eb168e4637df5d25
+      internalID: -292691102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb11697dd5e62c74eabc47f67359b582
+      internalID: -1864002065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46d9e37371e50647bee6d7d967b41f2
+      internalID: -39328595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd36cb727295f7141a712c0bac20b79d
+      internalID: 598871068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b307cc76332084abdaa2787146d589
+      internalID: -844570853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358d9c17bded99b4f861545e2aa05a8e
+      internalID: 1082725749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_36
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8450a830d8f9cbc4aaebe3cbed5a2456
+      internalID: 1674465553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462cf93331f5cda4bb60c653d4ff29e2
+      internalID: -484685395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_38
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa12f2f8d5416e4eaac88a46025f8d0
+      internalID: -793811444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_39
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebd1ba921cdf314db5c3608188e6409
+      internalID: 322966958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_40
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30f3ccab21284940aa33b792c51d499
+      internalID: -1875831113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_41
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a947e9ca971fd0408e81d4ca36d817d
+      internalID: -1652154300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_42
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256ca78479d9cba4a953ebe86f3c125a
+      internalID: -370456367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_43
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205fb85549781364598e5ab553d4dccb
+      internalID: 783472370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_44
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1171
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e232d1387a37ad4ba214ea3c8cabf6f
+      internalID: -1128033689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2574239d236ee1a47a3249b676983f11
+      internalID: -1816024588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1248d79bd5070b74e825722596948d9e
+      internalID: 794438479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_47
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dcda0fee8bc1d4b9d5398bfa707929
+      internalID: -1677610545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_48
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c797838a763a499335f02d0d8db45
+      internalID: 2095945378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_49
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7085963818a543b7b87cbd3ff5598
+      internalID: -131467995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_50
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24858c197a33f24b809f55700a9923c
+      internalID: 42489041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_51
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8abdada4577ed8499ff84c5e32ef00f
+      internalID: 1839637177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_52
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3657a867ece42914e82822aec5951579
+      internalID: -907770461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_53
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20150b1777994e459ad6acc839a2cff
+      internalID: 751127909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_54
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632f8ea1259e9c049a05347de8ea600f
+      internalID: -4932001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_55
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ae9f6397ad95d408718a9fd7cbb498
+      internalID: -1538381435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_56
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efd98d907e6fd6449d135602262e448
+      internalID: 383945661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_57
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3592ee964f4844496f649890e9721c
+      internalID: 388966917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_58
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19b94e4b4e196a4381560e1c4c6bd44
+      internalID: 391982036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_59
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1106
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fa6ced56cf46f43a9c51bf29d69fd0
+      internalID: -1045061918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3282f4adaf868c74094d14527b0d3067
+      internalID: -2072350782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b36627f654baf47b56d09d3f53873c
+      internalID: 51656498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a630ba5149667041b5914b579c8aa8b
+      internalID: 264482235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe5c8cf321e56f44adeabac56de63ce
+      internalID: -1477642748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_64
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d47ddba4d04a8e4cbd906bb13337399
+      internalID: -1352513806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_65
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a11aef21b72fb46ab8a461d81cb9fd
+      internalID: 911024756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_66
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac5c7279bfcca94e8f25bf3a4b95934
+      internalID: -683593024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_67
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d1f1f1a87235041b98fb9cf806ef23
+      internalID: -368634374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_68
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69850c7f0a23bf429099bf99fb292b5
+      internalID: 844835750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_69
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45d78460afdf644bab787520c247f6d
+      internalID: -1356919045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_70
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c951089f298d043ba4463f19d5432a
+      internalID: 36088532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_71
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d1c95787e322840b18ee389b1f0175
+      internalID: -587664024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_72
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c50eebdfaf47c448f87bfbcf31ec9d
+      internalID: -1854186553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_73
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f94533c06db1648918b3d6d6aeb03f
+      internalID: 2004153235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_74
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1041
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba78b0a1b8ea0134b8f98aedd403f585
+      internalID: -453960546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda8d91f7645d5a4c9385f9d5d6c6955
+      internalID: 1759687336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_76
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26271784748e1c747883ca607beb8f23
+      internalID: 33067441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_77
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571fcaa1144bb7846911538b87cb76c1
+      internalID: -2066995754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_78
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b66c41818936e4f8c3f000cdfc8e0c
+      internalID: -670406396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_79
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725e3fa91fdace64383218259d15b949
+      internalID: 712997076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_80
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b84d87fbeaf6942a769cd4e9078beb
+      internalID: 1742186074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_81
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af80e0eea6114b74799425a0fe41b5fd
+      internalID: -1383008820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_82
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8a77039b9b1dc42b2526bd33bbe23f
+      internalID: -970604943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_83
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e0c28f7c4936f48b6b004603d501dc
+      internalID: -496210519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_84
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da60b0c2565e76f4893fba8c9492616d
+      internalID: -1908892899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_85
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf468cf3103c0b748a39f8fe840cd934
+      internalID: -1103543931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_86
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a376ea65f549247864d842647a4272
+      internalID: -55952411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_87
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f920ef386c68294b89a7380a2929e85
+      internalID: -1471759743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_88
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7ca1e4358df314eb7d56f8ed1aec2f
+      internalID: 1037042642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_89
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 976
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48228ac3101394642909b2a0cdb8da1a
+      internalID: -515111269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2424ef25fc92e4e98714f749e13995
+      internalID: -1979799729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_91
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8952865e60c7714ea39ff1bcf02c96c
+      internalID: 2120758989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_92
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549f63d3c6ef4214088abf460c8b8e75
+      internalID: 1807108021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_93
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797a28ce20c22f64d8a115c4856a51b9
+      internalID: -459956896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_94
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ae7353285ae1441b8879dd72433696
+      internalID: -1539393928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_95
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7605f24ecdd569e4ea2373642f8078ef
+      internalID: -675956893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_96
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9bd5ab7128b944496bf8563fb04174
+      internalID: 1861101701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_97
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9642390e5533e604182808617cc30568
+      internalID: 1720925770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_98
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30776c62de090ed4782fdbec2da801b7
+      internalID: -647004973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_99
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25ca66f95ba90a4dadbce03d99b2867
+      internalID: 655280247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_100
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe16d3c6a8eda14bb9c98a149e58ec2
+      internalID: -1557188992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_101
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa52abfd578c90148b7206d3599e7fae
+      internalID: -1436494853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_102
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0f88d4a56f13d4d902eb7d5e327dc2
+      internalID: -212513584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_103
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e41c607b60d20418cf8f33e5d8f90d
+      internalID: -483055676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_104
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 911
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb51d8962958df4489e2d28294c9b9f
+      internalID: 138281240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7daaa3e9f0409498236e93ea9ebb4d
+      internalID: -1208587103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_106
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d5c1505b843de47b8b5fe3be1a1c2d
+      internalID: -1302248267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_107
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e883624ba00ac44b8aff4e9cc8f9b7
+      internalID: 1175631328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_108
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f19d99f0655e0441a9579d3f78cc92d
+      internalID: 1847924787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_109
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00343429ded5f744287271a41f05fd4d
+      internalID: 1761038334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_110
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c0914b0a9d4e14b93ca0a263166780
+      internalID: 2004095573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_111
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a643acb07870d4c998b53d1a10e499
+      internalID: -548392174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_112
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350c0689e4096ca489fde268711d9a25
+      internalID: -1159930098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_113
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa03563cba8fec948bdfff55c1a7d103
+      internalID: -342672779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_114
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5077f51047138154f98d33841634b194
+      internalID: -381853385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_115
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c3c8e0bcb55d5479edb1735eea658b
+      internalID: 1307240310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_116
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cca39764d6cd040b5bfe2d35cfc5a9
+      internalID: 442732256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_117
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c97e50750c3ea4cbda07d58794ee5c
+      internalID: -29711027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_118
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f243387915a58344850490337b46aa5
+      internalID: -638867229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_119
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 846
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd77281ecd5ff144bc863049a3a9996
+      internalID: -442111884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d2d9584bc5a76448395a5591f9f3be
+      internalID: -9748869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_121
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b6f6b7449c6143afe4f1c841da5b3
+      internalID: 1089958318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_122
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95729b892b67d0408e613871bab8944
+      internalID: -997846212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_123
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91785941ce8dcef4596aa2f9b940dec7
+      internalID: -366117221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_124
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5714df5a6f7dc124ba3286860dd4f2b4
+      internalID: 1837681888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_125
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e780b8d12aff1b2479b42c5da9eb6913
+      internalID: 1715162909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_126
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1641b6966210e0949b9cb343454e90c9
+      internalID: 2096180010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_127
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7f2580f3c5c8a4081e2a12a61cc91a
+      internalID: -2001870790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_128
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756bfda4a0d8db4499c168602b8d5263
+      internalID: 1730839638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_129
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34cdc4c4f482664e8f1eb63879fdb37
+      internalID: -2027917277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_130
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b753b94d3e207bd4a80ad7cf2b7bf050
+      internalID: 1670165084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_131
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51caaa17130d154ab28b160439d0170
+      internalID: 2063028290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_132
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c096fcca5355c479977ddccede53f4
+      internalID: -2082916242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_133
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac73f9e4cc3a1e4f8d887c01da59270
+      internalID: -993691388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_134
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 781
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba5867f1eac164499942bf5461ad686
+      internalID: 1730919647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc93d5320650a24ba6f22b0199f8204
+      internalID: -1890644509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_136
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd66d8129791834c8fe4b2b02273962
+      internalID: -444343618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_137
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ae4f9d75413a4ea27a222b59b6912
+      internalID: -1672963412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_138
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384157d4202979249b49ddc55c92ee54
+      internalID: -816982723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_139
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105f084463bfef7408aec348b9de2592
+      internalID: -204374680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_140
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecedebeef1b97764991a14d34142342c
+      internalID: 728878792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_141
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa3f75d25fc3b74e86ac805ab447653
+      internalID: -1322940191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_142
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd07f8651ac5b894faf1923ea7c5de0c
+      internalID: 2124885585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_143
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c731ac3fb4fa6840baa91a8ea01f7f6
+      internalID: -442273232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_144
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db1a211265aec14f84df2c5e66d0e4c
+      internalID: -525042601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_145
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bf492b803cd594f90d43efe0a09c71
+      internalID: -1208252587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_146
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690ff50c819370f49ba1344343d6825e
+      internalID: 1610484671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_147
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b1c104afae09e47af2d9cd7bbf4b44
+      internalID: -1614215742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_148
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e1a5fa6ca4a1c4991fc3d85773edaa
+      internalID: 1098439661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_149
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 716
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff509f59391d3b4b9a8c4b4fcb5028a
+      internalID: 151137694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b1553bd921a194bb7be24895c03504
+      internalID: -2039633146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_151
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4857a1f1436abbb458eea9aa9783086d
+      internalID: -89854280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_152
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3983df3ac6f114aa22f4eea00c46b6
+      internalID: -1319907236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_153
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b5b999d575bab498aff10d058409dc
+      internalID: 374502687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_154
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749393c95985fae4bb861d20880fb3c3
+      internalID: 893874465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_155
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a264600f1e21cb64485995a8c196dac2
+      internalID: 1054032667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_156
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1696a081a0d0a44db805f38f81f6e9e
+      internalID: 507748993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_157
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6825c4b91932845a8d623aa99aaa92
+      internalID: 46664536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_158
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c982176c9a37fb48b2af21400c382f4
+      internalID: -1175692153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_159
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c602ee0dbb757e469597fba24e8142d
+      internalID: -2030262833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_160
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0689ace1828d8bc45a99c12f196f23d9
+      internalID: 1809700664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_161
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9e5094fec0cc449a76a621872935f4
+      internalID: -1564745443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_162
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ab6ac7f9eda304cb0241a179464e57
+      internalID: -1779174929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_163
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659813470f515fa439f347ff54d1c15f
+      internalID: 652817220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_164
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 651
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30716c82e5c8e144faa73daee16c6832
+      internalID: 894282524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d763d322cc9223f4f9575e4584d6ed15
+      internalID: -738964994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_166
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095090cdf5d4e8944a1ce4172dafe413
+      internalID: -1942935063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_167
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1388ea9d4497124abefcc595c1bc98a
+      internalID: 1095459011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_168
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f341650692699943abf6465b1e3aced
+      internalID: 1147918218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_169
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb05414171eb5141b98aaf72b00b1a2
+      internalID: -2120564085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_170
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389fc0f00b430cc409a7c713801159c9
+      internalID: -1726716681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_171
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4890c253181a14bbd96bcf1894d9d1
+      internalID: -1403609067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_172
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd64208403b2dc4c85b81a4b7fe7e50
+      internalID: 699711517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_173
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea69f02280f4d447912847ea435becc
+      internalID: -1013906996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_174
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c776bdf9db81c14ca9f46f8b485578b
+      internalID: -65270731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_175
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612d2e62841e4734eaf3fe9ad9632f29
+      internalID: 1854965677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_176
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6eef437a1cdac44abaf5157ca679b5
+      internalID: 419150366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_177
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b74ca83f5a3de4dafe4edfdeeebcae
+      internalID: 508953865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_178
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446b010d8c0bcea41847feaa8ecc8e38
+      internalID: -445560127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_179
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 586
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfd422a6881a8948abd22c911d53bc3
+      internalID: 1592401271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3aba9e8076a01c499062dc02546fa96
+      internalID: 1932484355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_181
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3795916737bf64e8127cafaf39b78d
+      internalID: -528752759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_182
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57dfc096ef2b154fb49255830826912
+      internalID: 952328476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_183
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9965abe454ddb374e8e26edec7c5bfef
+      internalID: -891449270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_184
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfb3609e09881e4c8609dc65e96c266
+      internalID: 972207992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_185
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55b0877691838b478571a59ed8de564
+      internalID: -1077183344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_186
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb998cbe8a4e234faf5167491b01618
+      internalID: -73020721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_187
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5048264910aeb4aad039ce7fbc0381
+      internalID: -1837386347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_188
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc27dac71bccc0f438015bf546bb7cf1
+      internalID: 1190004710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_189
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3677ebef77fd1184eb95f5b44d8a0cd1
+      internalID: -1166928158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_190
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947ba0b7fe8ce5a4593b857aabdfe8da
+      internalID: -989761567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_191
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936b4536934c99c43b2ed802bce8d692
+      internalID: -656716584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_192
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f5a426278883d479776614d691eaeb
+      internalID: -1013275847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_193
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21942e8ab60168d4d828a468a40e46bf
+      internalID: -130733878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_194
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 521
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe2162902d04e147b0bdf5cbf8a3cb2
+      internalID: 381246289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8ddcd40a626f345b95aee7470c779a
+      internalID: 56483903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_196
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad403a6f3e4cca746b50defd13f6e8cb
+      internalID: 1289436222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_197
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44543a7e8ce23fd48a6b40a1543573af
+      internalID: 436025233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_198
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b98647f153e20b479c0316ba442ae44
+      internalID: 91017070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_199
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee85e39bbc54d6f48b89b7f72a310ffe
+      internalID: 1807683631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_200
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0214dfdd49506f64c8347721898b401d
+      internalID: -1996021104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_201
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9ad8674a5a4d24aaa1f54a31ee29a7
+      internalID: -1734652238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_202
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d767e487609ed498107be54f811b49
+      internalID: -190787184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_203
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b700a103d213e74b80ff31ecdf00d0e
+      internalID: -120888192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_204
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf509575906e6574191daf24df2580a5
+      internalID: 905382189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_205
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e324368dd10d244f859018cf9629d51
+      internalID: -1039277338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_206
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f2e806567d313469fe3be8176f12c9
+      internalID: 1948120817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_207
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562ab9ab3a5b1ff46b9e83f0941a78d6
+      internalID: 1531785461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_208
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6940f8a9e407f14494f2e7ded1c94b9
+      internalID: -1181762401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_209
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 456
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13724ee99a9051c469e88db2c01307c6
+      internalID: 102000038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd80dd217046fba4eb31c2dd7ca47c60
+      internalID: 1233393801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_211
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaabcb0df72db4488176eae91f15db8
+      internalID: -22890395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_212
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d456ebfb02776d74ba54b8243f5ef051
+      internalID: -1710426123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_213
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beed88becf35aa1449852baa940936f7
+      internalID: -228978226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_214
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acb2e33b2d85674dac274cc1439668e
+      internalID: -458870046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_215
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9a2cb3b2734924a90ca1b5b7b8a52e
+      internalID: -946063332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_216
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee5bca2702ca4645ac6c2fea3d4d3fb
+      internalID: 2098493090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_217
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b9333db7e5f4a45b5523ee9bee2b60
+      internalID: -745147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_218
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d33acb8fb35df45bb1067a1393e808
+      internalID: -1958569724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_219
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37556114571f9a44d86cb6691f0e618b
+      internalID: -1626485318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_220
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1004c7daa571d54ca7c1a5d4c817c76
+      internalID: 1683545213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_221
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de696086697595344a5cf80e8dca33e8
+      internalID: -1582999021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_222
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a165490f8e5a444b1c541b885f11f2
+      internalID: -1968596445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_223
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6101bfab5d957ae40b6f2269cc1e7a95
+      internalID: -611797441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_224
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 391
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08279274be28d1443afa6b0ff9e99692
+      internalID: -1011709117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f38a03eb8b5074c9611486fbcbdb17
+      internalID: -1795470935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_226
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4a4f2f65194f34ca52e9e39f3eadfd
+      internalID: -1340874726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_227
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc895862352a424db08ec38c2c94dc2
+      internalID: -1502868641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_228
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0179079314529e44a9b0e3e6978c456
+      internalID: -983371981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_229
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123cd1d62bf09fe41805c6e52aa07bf2
+      internalID: -1453978552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_230
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab74f4635e43c04fbb616c280f9ec34
+      internalID: 1055976311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_231
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ee560400cb4144b93ff8e8bc04a036
+      internalID: 175375895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_232
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4888aaaf3c46144a74b7e31153874e
+      internalID: 558975500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_233
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1325b81018579294791c4df0db15e15e
+      internalID: 2138812706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_234
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56877e717cf258428692b03afbc4459
+      internalID: -710336990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_235
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2995bfefef7d745b5db7044df18c42
+      internalID: 1731990002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_236
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7896653b092784b9457d8940323009
+      internalID: 341922124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_237
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b66b510a71274a8fde88c950b7b4c
+      internalID: 115668942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_238
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84efae48a81d3434cb7d4009ce0a426c
+      internalID: -1884021598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_239
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 326
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa26029d8270624fb1459507b5ff45c
+      internalID: 1069039498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4783c8097fbeeca498a490636f83af3d
+      internalID: 42691600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_241
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca495116b618ad4ab3cd978f00f6f7c
+      internalID: -1556300925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_242
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f5e17b1e8692046a256390a1496a90
+      internalID: -1742666266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_243
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fcdb4d3d280a640ba23556ef6d8a6c
+      internalID: -1761423213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_244
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a55f986995e7834cb3c7feb539a1de5
+      internalID: -472122355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_245
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a3e6546d9ecf4f8cdb200a85e2f82
+      internalID: -2022288177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_246
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf89a0a6cafff43479a948c4f07e0a69
+      internalID: -1797091196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_247
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143e286ed0347244396376a51035be58
+      internalID: 1265961142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_248
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958500464c12a1740bfd3901c7bd0b3d
+      internalID: 1721109029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_249
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf87836b1ea61e64b8f2e10f2e8491c1
+      internalID: 1537364235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_250
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae7663c04a286f4ab48e007275dcfe7
+      internalID: -417832035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_251
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3436f8766ec2246b2e5ac55ed32f74
+      internalID: -1184325782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_252
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af57df50eb76ac46ba6f5598a267a2c
+      internalID: 1486632526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_253
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b89516aaf02c24ba62f18b2567cab1
+      internalID: 529725621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_254
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 261
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f97d854e163c294fbfb43ff212bd4a2
+      internalID: -1717979438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c852d22fc44ef945b29f2002a42c43b
+      internalID: 631965754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_256
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a2401aaa0b33340bbbe628c9ab4a91
+      internalID: -1975416715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_257
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9dae3ec93542a4bbe0e2cde4c33639
+      internalID: 655642683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_258
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1350fdbc5fd762f4a800ff6f66562973
+      internalID: -1091570148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_259
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eff69226ea1668418c2689603bb457e
+      internalID: -1481290369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_260
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9d44f84ac51a840b49c9ce70b72100
+      internalID: 11816508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_261
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ed1df186135c64f8ae2a2aff89b4fa
+      internalID: -1236781526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_262
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21169f790ffc3934f94d2eaf5b05afe4
+      internalID: -225101732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_263
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b7285907be5a46b0e72841f20e769
+      internalID: -732388480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_264
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91081ab18ae40a944a4cebddbb55255e
+      internalID: -803936014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_265
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11303afb1735a0c408cf3041ced37cf4
+      internalID: 1887137888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_266
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5865ea6c4a6fd9e4fa1f8d0ca91d83c6
+      internalID: 886915500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_267
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff903464a0c7de4697608aa1884d7c8
+      internalID: 1148110185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_268
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556389a072a536d44944c1ca6ad1328e
+      internalID: 980664132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_269
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 196
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc853b78566782479f54cfd84acbe6d
+      internalID: -1293333405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07658932de70bcf469b7e5505f347d72
+      internalID: 1389279638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_271
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8fd171c65ca5340baaf158819ced2b
+      internalID: -639516607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_272
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf14008e95cb3f449b44d21bf721e90
+      internalID: -136278115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_273
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78c7735dc5c79d47bfa3a813c678551
+      internalID: -1232318694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_274
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52761e0bc328b8b458cf501ad9d3abcc
+      internalID: 1315360785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_275
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b040c7f7536a14b95693f9f025ad59
+      internalID: -1925460886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_276
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831d35aa746eba343b88c79ebaec28ab
+      internalID: -1005372917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_277
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab37936dff5be6244ab5c5203e2f072c
+      internalID: -1433582134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_278
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daaebd84dfa32c419b7106e3f0ac527
+      internalID: 894179427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_279
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882fb44560374c94aac57d2a5d75b619
+      internalID: 1714756697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_280
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c2b76abc50cd1449bd4cd3d457a959
+      internalID: 692402298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_281
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95cf4e5ec860da418ac5d5d84ba5332
+      internalID: 1296871261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_282
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c34e0b3b43ff304b9e3a691a2a1b5f0
+      internalID: 457887480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_283
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be91985939563504f9cd5a9184c349b0
+      internalID: -128277761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_284
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 131
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a753d7af1eaebe34785b97b99e364341
+      internalID: -556604135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_285
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebccd4e34b599f4bb4ae2d4437c8221
+      internalID: -570143751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_286
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccfbbb26d9a8a444bb45fe19d9ed238
+      internalID: -685893938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_287
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091f000e16817524d81d211936e4610f
+      internalID: 731991507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_288
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb89d07d827789468722a3cbda2c2f3
+      internalID: -413867170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_289
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14000e343806c9e4fac4382dc2dfe221
+      internalID: -1126820055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_290
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3438d738e2e99ce429ef0882bf0f8db5
+      internalID: 1100059008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_291
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb8741bc9705d147beb02d43ca615e3
+      internalID: 1180179143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_292
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6211051e59ec22b42b2d90012a7c8ef7
+      internalID: 481408651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_293
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3974e2ad62af2a544b0c5e8f1aca6b4f
+      internalID: 2031678132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_294
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6768156cabf2877449cc6360a626cc3d
+      internalID: 1525939466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_295
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cf2a1fc1d90f34fb5f2b2b33753f97
+      internalID: -1072266396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_296
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ce3f49f744dfb4bbdd4bc41edff31f
+      internalID: 483049368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_297
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae49a4ebd8370044bd823833e539603
+      internalID: -1983715527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_298
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c39ba567abef92438332c918239a5fc
+      internalID: 1986965711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_299
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 66
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5374d30fe2322e648b9192cafe067f7d
+      internalID: -301015872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_300
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba5c683377038141946abfec1688320
+      internalID: 1818401205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_301
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9a88a123d4f544c9f7469f0ac1cffa
+      internalID: 1807796125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_302
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d3114aea60c324b86272205f8c66d7
+      internalID: -1010676713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_303
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda1102b657daa447b939e8cd66715f4
+      internalID: 1966124407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_304
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f046debb7eee8b488175fdf126712a4
+      internalID: 613861246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_305
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116a8773a6a48354b88774bd5ea868cc
+      internalID: 554147365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_306
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d001d74c99a5264ab65fc89448d2121
+      internalID: 958909241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_307
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c1e180be26f534482aac3dfb5f230a
+      internalID: -1254178999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_308
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e427e2952c507c4b871ecf5d8db306e
+      internalID: -1227474446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_309
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be6ed8e12d8d574288610db06b37040
+      internalID: -2093330041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_310
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c807a131f6181d44aea4136930f83a9
+      internalID: 593663947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_311
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f344ca657eea543b0a2569348d4401
+      internalID: -213436928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_312
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd68e39bdc61964198927c7af38de13
+      internalID: 793963415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_313
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f309f2ebcf905e8498657cfc2d59ae13
+      internalID: -1359653296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DS - Yo-kai Watch - User Interface - Items_314
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2455e2ed19ce9f240b09235f4539f90e
+      internalID: -384210265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4acb7e6c801ea2d438502f2fd244ee4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":15.0,"y":21.0},"gridSpriteSize":{"x":65.0,"y":65.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      3DS - Yo-kai Watch - User Interface - Items_0: 1657207230
+      3DS - Yo-kai Watch - User Interface - Items_1: 723746270
+      3DS - Yo-kai Watch - User Interface - Items_10: 1608253864
+      3DS - Yo-kai Watch - User Interface - Items_100: -1557188992
+      3DS - Yo-kai Watch - User Interface - Items_101: -1436494853
+      3DS - Yo-kai Watch - User Interface - Items_102: -212513584
+      3DS - Yo-kai Watch - User Interface - Items_103: -483055676
+      3DS - Yo-kai Watch - User Interface - Items_104: 138281240
+      3DS - Yo-kai Watch - User Interface - Items_105: -1208587103
+      3DS - Yo-kai Watch - User Interface - Items_106: -1302248267
+      3DS - Yo-kai Watch - User Interface - Items_107: 1175631328
+      3DS - Yo-kai Watch - User Interface - Items_108: 1847924787
+      3DS - Yo-kai Watch - User Interface - Items_109: 1761038334
+      3DS - Yo-kai Watch - User Interface - Items_11: -1809246552
+      3DS - Yo-kai Watch - User Interface - Items_110: 2004095573
+      3DS - Yo-kai Watch - User Interface - Items_111: -548392174
+      3DS - Yo-kai Watch - User Interface - Items_112: -1159930098
+      3DS - Yo-kai Watch - User Interface - Items_113: -342672779
+      3DS - Yo-kai Watch - User Interface - Items_114: -381853385
+      3DS - Yo-kai Watch - User Interface - Items_115: 1307240310
+      3DS - Yo-kai Watch - User Interface - Items_116: 442732256
+      3DS - Yo-kai Watch - User Interface - Items_117: -29711027
+      3DS - Yo-kai Watch - User Interface - Items_118: -638867229
+      3DS - Yo-kai Watch - User Interface - Items_119: -442111884
+      3DS - Yo-kai Watch - User Interface - Items_12: 941658835
+      3DS - Yo-kai Watch - User Interface - Items_120: -9748869
+      3DS - Yo-kai Watch - User Interface - Items_121: 1089958318
+      3DS - Yo-kai Watch - User Interface - Items_122: -997846212
+      3DS - Yo-kai Watch - User Interface - Items_123: -366117221
+      3DS - Yo-kai Watch - User Interface - Items_124: 1837681888
+      3DS - Yo-kai Watch - User Interface - Items_125: 1715162909
+      3DS - Yo-kai Watch - User Interface - Items_126: 2096180010
+      3DS - Yo-kai Watch - User Interface - Items_127: -2001870790
+      3DS - Yo-kai Watch - User Interface - Items_128: 1730839638
+      3DS - Yo-kai Watch - User Interface - Items_129: -2027917277
+      3DS - Yo-kai Watch - User Interface - Items_13: -1011820001
+      3DS - Yo-kai Watch - User Interface - Items_130: 1670165084
+      3DS - Yo-kai Watch - User Interface - Items_131: 2063028290
+      3DS - Yo-kai Watch - User Interface - Items_132: -2082916242
+      3DS - Yo-kai Watch - User Interface - Items_133: -993691388
+      3DS - Yo-kai Watch - User Interface - Items_134: 1730919647
+      3DS - Yo-kai Watch - User Interface - Items_135: -1890644509
+      3DS - Yo-kai Watch - User Interface - Items_136: -444343618
+      3DS - Yo-kai Watch - User Interface - Items_137: -1672963412
+      3DS - Yo-kai Watch - User Interface - Items_138: -816982723
+      3DS - Yo-kai Watch - User Interface - Items_139: -204374680
+      3DS - Yo-kai Watch - User Interface - Items_14: 1731276313
+      3DS - Yo-kai Watch - User Interface - Items_140: 728878792
+      3DS - Yo-kai Watch - User Interface - Items_141: -1322940191
+      3DS - Yo-kai Watch - User Interface - Items_142: 2124885585
+      3DS - Yo-kai Watch - User Interface - Items_143: -442273232
+      3DS - Yo-kai Watch - User Interface - Items_144: -525042601
+      3DS - Yo-kai Watch - User Interface - Items_145: -1208252587
+      3DS - Yo-kai Watch - User Interface - Items_146: 1610484671
+      3DS - Yo-kai Watch - User Interface - Items_147: -1614215742
+      3DS - Yo-kai Watch - User Interface - Items_148: 1098439661
+      3DS - Yo-kai Watch - User Interface - Items_149: 151137694
+      3DS - Yo-kai Watch - User Interface - Items_15: -1562696373
+      3DS - Yo-kai Watch - User Interface - Items_150: -2039633146
+      3DS - Yo-kai Watch - User Interface - Items_151: -89854280
+      3DS - Yo-kai Watch - User Interface - Items_152: -1319907236
+      3DS - Yo-kai Watch - User Interface - Items_153: 374502687
+      3DS - Yo-kai Watch - User Interface - Items_154: 893874465
+      3DS - Yo-kai Watch - User Interface - Items_155: 1054032667
+      3DS - Yo-kai Watch - User Interface - Items_156: 507748993
+      3DS - Yo-kai Watch - User Interface - Items_157: 46664536
+      3DS - Yo-kai Watch - User Interface - Items_158: -1175692153
+      3DS - Yo-kai Watch - User Interface - Items_159: -2030262833
+      3DS - Yo-kai Watch - User Interface - Items_16: 331726353
+      3DS - Yo-kai Watch - User Interface - Items_160: 1809700664
+      3DS - Yo-kai Watch - User Interface - Items_161: -1564745443
+      3DS - Yo-kai Watch - User Interface - Items_162: -1779174929
+      3DS - Yo-kai Watch - User Interface - Items_163: 652817220
+      3DS - Yo-kai Watch - User Interface - Items_164: 894282524
+      3DS - Yo-kai Watch - User Interface - Items_165: -738964994
+      3DS - Yo-kai Watch - User Interface - Items_166: -1942935063
+      3DS - Yo-kai Watch - User Interface - Items_167: 1095459011
+      3DS - Yo-kai Watch - User Interface - Items_168: 1147918218
+      3DS - Yo-kai Watch - User Interface - Items_169: -2120564085
+      3DS - Yo-kai Watch - User Interface - Items_17: 57584776
+      3DS - Yo-kai Watch - User Interface - Items_170: -1726716681
+      3DS - Yo-kai Watch - User Interface - Items_171: -1403609067
+      3DS - Yo-kai Watch - User Interface - Items_172: 699711517
+      3DS - Yo-kai Watch - User Interface - Items_173: -1013906996
+      3DS - Yo-kai Watch - User Interface - Items_174: -65270731
+      3DS - Yo-kai Watch - User Interface - Items_175: 1854965677
+      3DS - Yo-kai Watch - User Interface - Items_176: 419150366
+      3DS - Yo-kai Watch - User Interface - Items_177: 508953865
+      3DS - Yo-kai Watch - User Interface - Items_178: -445560127
+      3DS - Yo-kai Watch - User Interface - Items_179: 1592401271
+      3DS - Yo-kai Watch - User Interface - Items_18: -795907149
+      3DS - Yo-kai Watch - User Interface - Items_180: 1932484355
+      3DS - Yo-kai Watch - User Interface - Items_181: -528752759
+      3DS - Yo-kai Watch - User Interface - Items_182: 952328476
+      3DS - Yo-kai Watch - User Interface - Items_183: -891449270
+      3DS - Yo-kai Watch - User Interface - Items_184: 972207992
+      3DS - Yo-kai Watch - User Interface - Items_185: -1077183344
+      3DS - Yo-kai Watch - User Interface - Items_186: -73020721
+      3DS - Yo-kai Watch - User Interface - Items_187: -1837386347
+      3DS - Yo-kai Watch - User Interface - Items_188: 1190004710
+      3DS - Yo-kai Watch - User Interface - Items_189: -1166928158
+      3DS - Yo-kai Watch - User Interface - Items_19: 1868244168
+      3DS - Yo-kai Watch - User Interface - Items_190: -989761567
+      3DS - Yo-kai Watch - User Interface - Items_191: -656716584
+      3DS - Yo-kai Watch - User Interface - Items_192: -1013275847
+      3DS - Yo-kai Watch - User Interface - Items_193: -130733878
+      3DS - Yo-kai Watch - User Interface - Items_194: 381246289
+      3DS - Yo-kai Watch - User Interface - Items_195: 56483903
+      3DS - Yo-kai Watch - User Interface - Items_196: 1289436222
+      3DS - Yo-kai Watch - User Interface - Items_197: 436025233
+      3DS - Yo-kai Watch - User Interface - Items_198: 91017070
+      3DS - Yo-kai Watch - User Interface - Items_199: 1807683631
+      3DS - Yo-kai Watch - User Interface - Items_2: 1706215085
+      3DS - Yo-kai Watch - User Interface - Items_20: -930473101
+      3DS - Yo-kai Watch - User Interface - Items_200: -1996021104
+      3DS - Yo-kai Watch - User Interface - Items_201: -1734652238
+      3DS - Yo-kai Watch - User Interface - Items_202: -190787184
+      3DS - Yo-kai Watch - User Interface - Items_203: -120888192
+      3DS - Yo-kai Watch - User Interface - Items_204: 905382189
+      3DS - Yo-kai Watch - User Interface - Items_205: -1039277338
+      3DS - Yo-kai Watch - User Interface - Items_206: 1948120817
+      3DS - Yo-kai Watch - User Interface - Items_207: 1531785461
+      3DS - Yo-kai Watch - User Interface - Items_208: -1181762401
+      3DS - Yo-kai Watch - User Interface - Items_209: 102000038
+      3DS - Yo-kai Watch - User Interface - Items_21: -3813886
+      3DS - Yo-kai Watch - User Interface - Items_210: 1233393801
+      3DS - Yo-kai Watch - User Interface - Items_211: -22890395
+      3DS - Yo-kai Watch - User Interface - Items_212: -1710426123
+      3DS - Yo-kai Watch - User Interface - Items_213: -228978226
+      3DS - Yo-kai Watch - User Interface - Items_214: -458870046
+      3DS - Yo-kai Watch - User Interface - Items_215: -946063332
+      3DS - Yo-kai Watch - User Interface - Items_216: 2098493090
+      3DS - Yo-kai Watch - User Interface - Items_217: -745147
+      3DS - Yo-kai Watch - User Interface - Items_218: -1958569724
+      3DS - Yo-kai Watch - User Interface - Items_219: -1626485318
+      3DS - Yo-kai Watch - User Interface - Items_22: -734162992
+      3DS - Yo-kai Watch - User Interface - Items_220: 1683545213
+      3DS - Yo-kai Watch - User Interface - Items_221: -1582999021
+      3DS - Yo-kai Watch - User Interface - Items_222: -1968596445
+      3DS - Yo-kai Watch - User Interface - Items_223: -611797441
+      3DS - Yo-kai Watch - User Interface - Items_224: -1011709117
+      3DS - Yo-kai Watch - User Interface - Items_225: -1795470935
+      3DS - Yo-kai Watch - User Interface - Items_226: -1340874726
+      3DS - Yo-kai Watch - User Interface - Items_227: -1502868641
+      3DS - Yo-kai Watch - User Interface - Items_228: -983371981
+      3DS - Yo-kai Watch - User Interface - Items_229: -1453978552
+      3DS - Yo-kai Watch - User Interface - Items_23: 96345646
+      3DS - Yo-kai Watch - User Interface - Items_230: 1055976311
+      3DS - Yo-kai Watch - User Interface - Items_231: 175375895
+      3DS - Yo-kai Watch - User Interface - Items_232: 558975500
+      3DS - Yo-kai Watch - User Interface - Items_233: 2138812706
+      3DS - Yo-kai Watch - User Interface - Items_234: -710336990
+      3DS - Yo-kai Watch - User Interface - Items_235: 1731990002
+      3DS - Yo-kai Watch - User Interface - Items_236: 341922124
+      3DS - Yo-kai Watch - User Interface - Items_237: 115668942
+      3DS - Yo-kai Watch - User Interface - Items_238: -1884021598
+      3DS - Yo-kai Watch - User Interface - Items_239: 1069039498
+      3DS - Yo-kai Watch - User Interface - Items_24: 838697439
+      3DS - Yo-kai Watch - User Interface - Items_240: 42691600
+      3DS - Yo-kai Watch - User Interface - Items_241: -1556300925
+      3DS - Yo-kai Watch - User Interface - Items_242: -1742666266
+      3DS - Yo-kai Watch - User Interface - Items_243: -1761423213
+      3DS - Yo-kai Watch - User Interface - Items_244: -472122355
+      3DS - Yo-kai Watch - User Interface - Items_245: -2022288177
+      3DS - Yo-kai Watch - User Interface - Items_246: -1797091196
+      3DS - Yo-kai Watch - User Interface - Items_247: 1265961142
+      3DS - Yo-kai Watch - User Interface - Items_248: 1721109029
+      3DS - Yo-kai Watch - User Interface - Items_249: 1537364235
+      3DS - Yo-kai Watch - User Interface - Items_25: 1782355810
+      3DS - Yo-kai Watch - User Interface - Items_250: -417832035
+      3DS - Yo-kai Watch - User Interface - Items_251: -1184325782
+      3DS - Yo-kai Watch - User Interface - Items_252: 1486632526
+      3DS - Yo-kai Watch - User Interface - Items_253: 529725621
+      3DS - Yo-kai Watch - User Interface - Items_254: -1717979438
+      3DS - Yo-kai Watch - User Interface - Items_255: 631965754
+      3DS - Yo-kai Watch - User Interface - Items_256: -1975416715
+      3DS - Yo-kai Watch - User Interface - Items_257: 655642683
+      3DS - Yo-kai Watch - User Interface - Items_258: -1091570148
+      3DS - Yo-kai Watch - User Interface - Items_259: -1481290369
+      3DS - Yo-kai Watch - User Interface - Items_26: -1894892369
+      3DS - Yo-kai Watch - User Interface - Items_260: 11816508
+      3DS - Yo-kai Watch - User Interface - Items_261: -1236781526
+      3DS - Yo-kai Watch - User Interface - Items_262: -225101732
+      3DS - Yo-kai Watch - User Interface - Items_263: -732388480
+      3DS - Yo-kai Watch - User Interface - Items_264: -803936014
+      3DS - Yo-kai Watch - User Interface - Items_265: 1887137888
+      3DS - Yo-kai Watch - User Interface - Items_266: 886915500
+      3DS - Yo-kai Watch - User Interface - Items_267: 1148110185
+      3DS - Yo-kai Watch - User Interface - Items_268: 980664132
+      3DS - Yo-kai Watch - User Interface - Items_269: -1293333405
+      3DS - Yo-kai Watch - User Interface - Items_27: 251122981
+      3DS - Yo-kai Watch - User Interface - Items_270: 1389279638
+      3DS - Yo-kai Watch - User Interface - Items_271: -639516607
+      3DS - Yo-kai Watch - User Interface - Items_272: -136278115
+      3DS - Yo-kai Watch - User Interface - Items_273: -1232318694
+      3DS - Yo-kai Watch - User Interface - Items_274: 1315360785
+      3DS - Yo-kai Watch - User Interface - Items_275: -1925460886
+      3DS - Yo-kai Watch - User Interface - Items_276: -1005372917
+      3DS - Yo-kai Watch - User Interface - Items_277: -1433582134
+      3DS - Yo-kai Watch - User Interface - Items_278: 894179427
+      3DS - Yo-kai Watch - User Interface - Items_279: 1714756697
+      3DS - Yo-kai Watch - User Interface - Items_28: -1599250430
+      3DS - Yo-kai Watch - User Interface - Items_280: 692402298
+      3DS - Yo-kai Watch - User Interface - Items_281: 1296871261
+      3DS - Yo-kai Watch - User Interface - Items_282: 457887480
+      3DS - Yo-kai Watch - User Interface - Items_283: -128277761
+      3DS - Yo-kai Watch - User Interface - Items_284: -556604135
+      3DS - Yo-kai Watch - User Interface - Items_285: -570143751
+      3DS - Yo-kai Watch - User Interface - Items_286: -685893938
+      3DS - Yo-kai Watch - User Interface - Items_287: 731991507
+      3DS - Yo-kai Watch - User Interface - Items_288: -413867170
+      3DS - Yo-kai Watch - User Interface - Items_289: -1126820055
+      3DS - Yo-kai Watch - User Interface - Items_29: -649598377
+      3DS - Yo-kai Watch - User Interface - Items_290: 1100059008
+      3DS - Yo-kai Watch - User Interface - Items_291: 1180179143
+      3DS - Yo-kai Watch - User Interface - Items_292: 481408651
+      3DS - Yo-kai Watch - User Interface - Items_293: 2031678132
+      3DS - Yo-kai Watch - User Interface - Items_294: 1525939466
+      3DS - Yo-kai Watch - User Interface - Items_295: -1072266396
+      3DS - Yo-kai Watch - User Interface - Items_296: 483049368
+      3DS - Yo-kai Watch - User Interface - Items_297: -1983715527
+      3DS - Yo-kai Watch - User Interface - Items_298: 1986965711
+      3DS - Yo-kai Watch - User Interface - Items_299: -301015872
+      3DS - Yo-kai Watch - User Interface - Items_3: -1874198055
+      3DS - Yo-kai Watch - User Interface - Items_30: -292691102
+      3DS - Yo-kai Watch - User Interface - Items_300: 1818401205
+      3DS - Yo-kai Watch - User Interface - Items_301: 1807796125
+      3DS - Yo-kai Watch - User Interface - Items_302: -1010676713
+      3DS - Yo-kai Watch - User Interface - Items_303: 1966124407
+      3DS - Yo-kai Watch - User Interface - Items_304: 613861246
+      3DS - Yo-kai Watch - User Interface - Items_305: 554147365
+      3DS - Yo-kai Watch - User Interface - Items_306: 958909241
+      3DS - Yo-kai Watch - User Interface - Items_307: -1254178999
+      3DS - Yo-kai Watch - User Interface - Items_308: -1227474446
+      3DS - Yo-kai Watch - User Interface - Items_309: -2093330041
+      3DS - Yo-kai Watch - User Interface - Items_31: -1864002065
+      3DS - Yo-kai Watch - User Interface - Items_310: 593663947
+      3DS - Yo-kai Watch - User Interface - Items_311: -213436928
+      3DS - Yo-kai Watch - User Interface - Items_312: 793963415
+      3DS - Yo-kai Watch - User Interface - Items_313: -1359653296
+      3DS - Yo-kai Watch - User Interface - Items_314: -384210265
+      3DS - Yo-kai Watch - User Interface - Items_32: -39328595
+      3DS - Yo-kai Watch - User Interface - Items_33: 598871068
+      3DS - Yo-kai Watch - User Interface - Items_34: -844570853
+      3DS - Yo-kai Watch - User Interface - Items_35: 1082725749
+      3DS - Yo-kai Watch - User Interface - Items_36: 1674465553
+      3DS - Yo-kai Watch - User Interface - Items_37: -484685395
+      3DS - Yo-kai Watch - User Interface - Items_38: -793811444
+      3DS - Yo-kai Watch - User Interface - Items_39: 322966958
+      3DS - Yo-kai Watch - User Interface - Items_4: -2041442654
+      3DS - Yo-kai Watch - User Interface - Items_40: -1875831113
+      3DS - Yo-kai Watch - User Interface - Items_41: -1652154300
+      3DS - Yo-kai Watch - User Interface - Items_42: -370456367
+      3DS - Yo-kai Watch - User Interface - Items_43: 783472370
+      3DS - Yo-kai Watch - User Interface - Items_44: -1128033689
+      3DS - Yo-kai Watch - User Interface - Items_45: -1816024588
+      3DS - Yo-kai Watch - User Interface - Items_46: 794438479
+      3DS - Yo-kai Watch - User Interface - Items_47: -1677610545
+      3DS - Yo-kai Watch - User Interface - Items_48: 2095945378
+      3DS - Yo-kai Watch - User Interface - Items_49: -131467995
+      3DS - Yo-kai Watch - User Interface - Items_5: 921933791
+      3DS - Yo-kai Watch - User Interface - Items_50: 42489041
+      3DS - Yo-kai Watch - User Interface - Items_51: 1839637177
+      3DS - Yo-kai Watch - User Interface - Items_52: -907770461
+      3DS - Yo-kai Watch - User Interface - Items_53: 751127909
+      3DS - Yo-kai Watch - User Interface - Items_54: -4932001
+      3DS - Yo-kai Watch - User Interface - Items_55: -1538381435
+      3DS - Yo-kai Watch - User Interface - Items_56: 383945661
+      3DS - Yo-kai Watch - User Interface - Items_57: 388966917
+      3DS - Yo-kai Watch - User Interface - Items_58: 391982036
+      3DS - Yo-kai Watch - User Interface - Items_59: -1045061918
+      3DS - Yo-kai Watch - User Interface - Items_6: 282058558
+      3DS - Yo-kai Watch - User Interface - Items_60: -2072350782
+      3DS - Yo-kai Watch - User Interface - Items_61: 51656498
+      3DS - Yo-kai Watch - User Interface - Items_62: 264482235
+      3DS - Yo-kai Watch - User Interface - Items_63: -1477642748
+      3DS - Yo-kai Watch - User Interface - Items_64: -1352513806
+      3DS - Yo-kai Watch - User Interface - Items_65: 911024756
+      3DS - Yo-kai Watch - User Interface - Items_66: -683593024
+      3DS - Yo-kai Watch - User Interface - Items_67: -368634374
+      3DS - Yo-kai Watch - User Interface - Items_68: 844835750
+      3DS - Yo-kai Watch - User Interface - Items_69: -1356919045
+      3DS - Yo-kai Watch - User Interface - Items_7: -1246185894
+      3DS - Yo-kai Watch - User Interface - Items_70: 36088532
+      3DS - Yo-kai Watch - User Interface - Items_71: -587664024
+      3DS - Yo-kai Watch - User Interface - Items_72: -1854186553
+      3DS - Yo-kai Watch - User Interface - Items_73: 2004153235
+      3DS - Yo-kai Watch - User Interface - Items_74: -453960546
+      3DS - Yo-kai Watch - User Interface - Items_75: 1759687336
+      3DS - Yo-kai Watch - User Interface - Items_76: 33067441
+      3DS - Yo-kai Watch - User Interface - Items_77: -2066995754
+      3DS - Yo-kai Watch - User Interface - Items_78: -670406396
+      3DS - Yo-kai Watch - User Interface - Items_79: 712997076
+      3DS - Yo-kai Watch - User Interface - Items_8: 446726261
+      3DS - Yo-kai Watch - User Interface - Items_80: 1742186074
+      3DS - Yo-kai Watch - User Interface - Items_81: -1383008820
+      3DS - Yo-kai Watch - User Interface - Items_82: -970604943
+      3DS - Yo-kai Watch - User Interface - Items_83: -496210519
+      3DS - Yo-kai Watch - User Interface - Items_84: -1908892899
+      3DS - Yo-kai Watch - User Interface - Items_85: -1103543931
+      3DS - Yo-kai Watch - User Interface - Items_86: -55952411
+      3DS - Yo-kai Watch - User Interface - Items_87: -1471759743
+      3DS - Yo-kai Watch - User Interface - Items_88: 1037042642
+      3DS - Yo-kai Watch - User Interface - Items_89: -515111269
+      3DS - Yo-kai Watch - User Interface - Items_9: -601725588
+      3DS - Yo-kai Watch - User Interface - Items_90: -1979799729
+      3DS - Yo-kai Watch - User Interface - Items_91: 2120758989
+      3DS - Yo-kai Watch - User Interface - Items_92: 1807108021
+      3DS - Yo-kai Watch - User Interface - Items_93: -459956896
+      3DS - Yo-kai Watch - User Interface - Items_94: -1539393928
+      3DS - Yo-kai Watch - User Interface - Items_95: -675956893
+      3DS - Yo-kai Watch - User Interface - Items_96: 1861101701
+      3DS - Yo-kai Watch - User Interface - Items_97: 1720925770
+      3DS - Yo-kai Watch - User Interface - Items_98: -647004973
+      3DS - Yo-kai Watch - User Interface - Items_99: 655280247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
