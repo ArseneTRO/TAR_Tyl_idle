@@ -47,15 +47,23 @@ public class Shop : MonoBehaviour
     }
     public void BuyThings()
     {
-        if (GoldAmount.Wallet >= Price)
+        if (ShopScreen != null)
         {
-            GoldAmount.Wallet -= Price;
-            Price = Mathf.CeilToInt(Price * 1.20f);
-            GoldAmount.Power += Power;
-            print("Achat Effectué");
-            GoldAmount.goldText.text = GoldAmount.Wallet.ToString("00");
-            GoldAmount.WalletShop.text = GoldAmount.Wallet.ToString("Wallet : 00");
+            if (PauseSystem != null)
+            {
+                    
+                if (GoldAmount.Wallet >= Price)
+                    {
+                        GoldAmount.Wallet -= Price;
+                        Price = Mathf.CeilToInt(Price * 1.20f);
+                        GoldAmount.Power += Power;
+                        print("Achat Effectue");
+                        GoldAmount.goldText.text = GoldAmount.Wallet.ToString("00");
+                        GoldAmount.WalletShop.text = GoldAmount.Wallet.ToString("Wallet : 00");
 
+                    }
+
+            }
         }
     }
 }

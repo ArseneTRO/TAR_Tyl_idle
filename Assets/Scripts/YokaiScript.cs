@@ -16,6 +16,12 @@ public class YokaiScript : MonoBehaviour
     public Image icon;
     public GameObject go;
     public PauseSystem pauseSystem;
+    public TextMeshProUGUI InfoYokai;
+    public float Power;
+    public TextMeshProUGUI PowerData;
+    public YokaiManager yokaiManager;
+
+
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -33,13 +39,32 @@ public class YokaiScript : MonoBehaviour
         if (GoldAmount.Wallet >= Price)
         {
             icon.color = Color.white;
+            InfoYokai.text = $"{FormatNumber(Price)}G {FormatNumber(Value)}G/{Temps}sec";
         }
         else
         {
             icon.color = Color.black;
+            InfoYokai.text = $"{FormatNumber(Price)}G ???G/sec";
         }
     }
 
+    public string FormatNumber(int number)
+    {
+        if (number >= 1_000_000)
+            return (number / 1_000_000f).ToString("0.#") + "M";
+        if (number >= 1_000)
+            return (number / 1_000f).ToString("0.#") + "K";
+        return number.ToString();
+    }
+
+    public string FormatNumber(float number)
+    {
+        if (number >= 1_000_000f)
+            return (number / 1_000_000f).ToString("0.#") + "M";
+        if (number >= 1_000f)
+            return (number / 1_000f).ToString("0.#") + "K";
+        return number.ToString("0.##");
+    }
     public IEnumerator MyCoroutine()
     {
         while (true)
@@ -49,7 +74,7 @@ public class YokaiScript : MonoBehaviour
             {
                 Yokai();
             }
-            yield return new WaitForSeconds(Temps); 
+            yield return new WaitForSeconds(Temps);
         }
     }
     public void Yokai()
@@ -65,6 +90,9 @@ public class YokaiScript : MonoBehaviour
 
             YK += 1;
             Price = Mathf.CeilToInt(Price * 1.20f);
+            
+            yokaiManager.Power += Value / Temps;
+            
         }
     }
 

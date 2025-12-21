@@ -22,8 +22,8 @@ public class GoldButtonScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       goldText.text = Wallet.ToString("00");
-       WalletShop.text = Wallet.ToString("Wallet : 00");
+       goldText.text = Wallet.ToString("(00)");
+       WalletShop.text = Wallet.ToString("Wallet : (00)");
     }
     public void Gold()
     {

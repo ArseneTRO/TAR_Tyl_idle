@@ -5,23 +5,29 @@ using UnityEngine.UI;
 
 public class YokaiManager : MonoBehaviour
 {
-    public int yokaiTotalNumber;
-    public TextMeshProUGUI yokaiText;
     public List<YokaiScript> yokais;
     public GoldButtonScript GoldAmount;
+    public TextMeshProUGUI PowerData;
+    public float Power;
 
+    void Start()
+    {
+        Power = 0;
+    }
     void Update()
     {
-        yokaiTotalNumber = 0;
-        foreach (var y in yokais)
-        {
-            yokaiTotalNumber += y.YK;
-        }
-
-        yokaiText.text = yokaiTotalNumber.ToString();
-
+        PowerData.text = $"Power: {FormatNumber(Power)}/sec";
 
         
+    }
+
+        public string FormatNumber(float number)
+    {
+        if (number >= 1_000_000f)
+            return (number / 1_000_000f).ToString("0.#") + "M";
+        if (number >= 1_000f)
+            return (number / 1_000f).ToString("0.#") + "K";
+        return number.ToString("0.##");
     }
 
 
