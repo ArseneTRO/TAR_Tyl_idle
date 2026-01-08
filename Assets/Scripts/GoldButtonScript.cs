@@ -6,11 +6,11 @@ using System.Collections;
 
 public class GoldButtonScript : MonoBehaviour
 {
+    
+    public int Power;
+    public int Wallet;
     public TextMeshProUGUI goldText;
     public TextMeshProUGUI WalletShop;
-    public int Wallet;
-    public int Power;
-    public int Price;
     public Shop Shop;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -35,14 +35,5 @@ public class GoldButtonScript : MonoBehaviour
         Wallet -= amountToRemove;
     }
 
-    public void echange()
-    {
-        if (Wallet > 10)
-        {
-            Wallet -= Price;
-            Power += 1;
-        }
 
-
-    }
-}
+   }

@@ -68,7 +68,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -90074312, guid: 516d7cfd0427991488c0219ef8831d33, type: 3}
+  m_Sprite: {fileID: -2411146, guid: 516d7cfd0427991488c0219ef8831d33, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -147,14 +147,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::YokaiScript
   YK: 0
-  GoldAmount: {fileID: 0}
   Temps: 1
   Price: 1
   Value: 1
-  icon: {fileID: 0}
-  go: {fileID: 0}
+  Power: 0
+  yokaiData: {fileID: 0}
+  GoldAmount: {fileID: 0}
+  icon: {fileID: 5748568245691354975}
   pauseSystem: {fileID: 0}
   InfoYokai: {fileID: 5343257527943496202}
+  PowerData: {fileID: 0}
+  yokaiManager: {fileID: 0}
 --- !u!1 &5091614437182981766
 GameObject:
   m_ObjectHideFlags: 0

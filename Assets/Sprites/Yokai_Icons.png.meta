@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_0
+      name: Yokai_Icons_0
       rect:
         serializedVersion: 2
         x: 0
@@ -125,14 +125,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 461fd06eab05b5c46afefc0c45c9f154
-      internalID: 310043620
+      spriteID: ad5519efc63e1cc4eb858905e88d2ff2
+      internalID: -2411146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_1
+      name: Yokai_Icons_1
       rect:
         serializedVersion: 2
         x: 64
@@ -147,14 +147,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64439bd1bb4344642823e2bfc86a9993
-      internalID: 1506131739
+      spriteID: 40344efdb79a2dd4aaf561ed414c9438
+      internalID: -644646783
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_2
+      name: Yokai_Icons_2
       rect:
         serializedVersion: 2
         x: 128
@@ -169,14 +169,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0879fe133f6fc846b1911c6905d166d
-      internalID: -1578727557
+      spriteID: 51ec357b21b6d3544a52621b4c6723f9
+      internalID: -598069533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_3
+      name: Yokai_Icons_3
       rect:
         serializedVersion: 2
         x: 192
@@ -191,14 +191,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76b31d52a34359a4daef91e0f016535e
-      internalID: -1345938129
+      spriteID: aae6680cad0d1744ba5c8490f828a32c
+      internalID: 1222066456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_4
+      name: Yokai_Icons_4
       rect:
         serializedVersion: 2
         x: 256
@@ -213,14 +213,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41d0e85610b92364881a0ec600a673a8
-      internalID: 220032565
+      spriteID: a949472dfa7853a4989fa4934c98708d
+      internalID: -850246956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_5
+      name: Yokai_Icons_5
       rect:
         serializedVersion: 2
         x: 320
@@ -235,14 +235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ba8dac06c93320418d0bc3adfc8c56e
-      internalID: 358247334
+      spriteID: 55e26131bb9bba44ca53215425e51cd7
+      internalID: -837164508
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_6
+      name: Yokai_Icons_6
       rect:
         serializedVersion: 2
         x: 384
@@ -257,14 +257,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd417eca18c5f204496379f3531ee8fb
-      internalID: -1781828468
+      spriteID: 8f86dab569d1bb345a258dc0f0db29ca
+      internalID: -763855752
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_7
+      name: Yokai_Icons_7
       rect:
         serializedVersion: 2
         x: 448
@@ -279,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69ea7b2b2358d974db4139f791ff79ba
-      internalID: -699562604
+      spriteID: 38f554b6cd2a1a74f9c466868da4f216
+      internalID: -1462010888
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_8
+      name: Yokai_Icons_8
       rect:
         serializedVersion: 2
         x: 0
@@ -301,14 +301,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88a29c04e25d477449d1efc57271c6da
-      internalID: 1096732917
+      spriteID: 48f826ad99a17c040a1675479fb3de86
+      internalID: 1383323180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_9
+      name: Yokai_Icons_9
       rect:
         serializedVersion: 2
         x: 64
@@ -323,14 +323,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a615030f1644fbf4bbdc50fe06f06410
-      internalID: -939549684
+      spriteID: 26d0857ccd5e40948a3f34567a0a4837
+      internalID: -618720215
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_10
+      name: Yokai_Icons_10
       rect:
         serializedVersion: 2
         x: 128
@@ -345,14 +345,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8fc55dd522f68f42bbc2047870f130c
-      internalID: 1603102894
+      spriteID: 5b557d46898fe0a48af91d0cd6df49aa
+      internalID: 225966324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_11
+      name: Yokai_Icons_11
       rect:
         serializedVersion: 2
         x: 192
@@ -367,14 +367,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45f1ed35b6bc2244dac4066d43469703
-      internalID: -975325502
+      spriteID: 9574793854dedd64e9a1d46afe275f99
+      internalID: -909785175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_12
+      name: Yokai_Icons_12
       rect:
         serializedVersion: 2
         x: 256
@@ -389,14 +389,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52e7d25317abdfa44be035b1be6515df
-      internalID: 206270719
+      spriteID: 594c4de4a8608de45a5c7372632bbb8f
+      internalID: 658984324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_13
+      name: Yokai_Icons_13
       rect:
         serializedVersion: 2
         x: 320
@@ -411,14 +411,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 303ebad2883c2e54081c5af77e2fcc0e
-      internalID: -634788768
+      spriteID: adee346faac23cd4d8a701f02b1081a2
+      internalID: 1639037155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_14
+      name: Yokai_Icons_14
       rect:
         serializedVersion: 2
         x: 384
@@ -433,14 +433,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7a84ea6feefc40448a6ccfba37ed470
-      internalID: -576918850
+      spriteID: 692777696c3f9194c979a83426d849c4
+      internalID: 262059766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_15
+      name: Yokai_Icons_15
       rect:
         serializedVersion: 2
         x: 448
@@ -455,14 +455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72a8803d95306c84d9b566767ac41214
-      internalID: -568748324
+      spriteID: 2199c098384d18242a859cf47cd14d33
+      internalID: 686269260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_16
+      name: Yokai_Icons_16
       rect:
         serializedVersion: 2
         x: 0
@@ -477,14 +477,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40e15d5f314c6f2499c6061724c10761
-      internalID: 603478584
+      spriteID: 7142169698e9c124e83eec990a23e5a4
+      internalID: 1220673540
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_17
+      name: Yokai_Icons_17
       rect:
         serializedVersion: 2
         x: 64
@@ -499,14 +499,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a91117f45716ee459e841a11e104484
-      internalID: -504046689
+      spriteID: 3e4d1e4284e54a0459056fdb351ea67f
+      internalID: 696913741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_18
+      name: Yokai_Icons_18
       rect:
         serializedVersion: 2
         x: 128
@@ -521,14 +521,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c2fff049ba4b044f90315a26cc1e5f3
-      internalID: -273331044
+      spriteID: ec3b6e3ac4ebbad4c8904f782634447b
+      internalID: -432994300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_19
+      name: Yokai_Icons_19
       rect:
         serializedVersion: 2
         x: 192
@@ -543,14 +543,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 806bf63658b387d48bdb909dcd9bbc2f
-      internalID: 548999457
+      spriteID: c20308a32fb9e0549b24e483a7c46b0d
+      internalID: -68129415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_20
+      name: Yokai_Icons_20
       rect:
         serializedVersion: 2
         x: 256
@@ -565,14 +565,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76a5993ff92472c49b7049e5b0e4a8f7
-      internalID: -1465692158
+      spriteID: 8cc5b88e99c45f54e87cb0939f964564
+      internalID: -1004785106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_21
+      name: Yokai_Icons_21
       rect:
         serializedVersion: 2
         x: 320
@@ -587,14 +587,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7824fe99ea51974fb8f8b5e9b22485e
-      internalID: 1425585968
+      spriteID: 6271109fcbf26fe43af0ab341465740e
+      internalID: -1587667916
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_22
+      name: Yokai_Icons_22
       rect:
         serializedVersion: 2
         x: 384
@@ -609,14 +609,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bcfa6aad52dd7c418f53f159e3cd957
-      internalID: 1763426471
+      spriteID: cb2a7ba46c5f2ca469c0b71df1da638b
+      internalID: -653087397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_23
+      name: Yokai_Icons_23
       rect:
         serializedVersion: 2
         x: 448
@@ -631,14 +631,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 832d5983c67fdd640a58acfa6e25b1a8
-      internalID: 2024838482
+      spriteID: c1fe22bc47b32b54983d02322512392d
+      internalID: 1610592815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_24
+      name: Yokai_Icons_24
       rect:
         serializedVersion: 2
         x: 0
@@ -653,14 +653,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 903f71d12117bb04588f73fd392b5de1
-      internalID: -354657483
+      spriteID: dfcc640c661bfd94f9b409cef5aed9f8
+      internalID: 2003698531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_25
+      name: Yokai_Icons_25
       rect:
         serializedVersion: 2
         x: 64
@@ -675,14 +675,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac3b2407dcd6b4e418bdc80ed8a8807e
-      internalID: -1404656169
+      spriteID: 8dbc856e66233214e962bf6396a5202e
+      internalID: -951088175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_26
+      name: Yokai_Icons_26
       rect:
         serializedVersion: 2
         x: 128
@@ -697,14 +697,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84d134978edd2cc418fe634537f0aa78
-      internalID: 309945662
+      spriteID: f089fbae9f432be45b15676c92e7a5c7
+      internalID: 1675662514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_27
+      name: Yokai_Icons_27
       rect:
         serializedVersion: 2
         x: 192
@@ -719,14 +719,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f8b71148123e9742a2214a7423f591b
-      internalID: 18138526
+      spriteID: 00553f3134df2e64891665b79cd1d183
+      internalID: -495811782
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_28
+      name: Yokai_Icons_28
       rect:
         serializedVersion: 2
         x: 256
@@ -741,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0784315fb6f02e4181fbf0207940438
-      internalID: -1038050156
+      spriteID: b655bf7da495cb74e8bb72cf09e8e113
+      internalID: -1753792589
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_29
+      name: Yokai_Icons_29
       rect:
         serializedVersion: 2
         x: 320
@@ -763,14 +763,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f11d46f087d1ae4188815973bbf8f3a
-      internalID: -1610002427
+      spriteID: 9da2d02c805f0b04d8d7345f6e368128
+      internalID: -1562264526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_30
+      name: Yokai_Icons_30
       rect:
         serializedVersion: 2
         x: 384
@@ -785,14 +785,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c4b8f36f333e2b4ca18cf44baec25c6
-      internalID: 1614792568
+      spriteID: 0bfeee09a82ad58408d755b6c1dd87a7
+      internalID: 2044334614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_31
+      name: Yokai_Icons_31
       rect:
         serializedVersion: 2
         x: 448
@@ -807,14 +807,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 668e799c2a30047419e55c5b58474349
-      internalID: -241051092
+      spriteID: 01d519fdb7bb2fc499b7d32ebf8dd253
+      internalID: 225096389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_32
+      name: Yokai_Icons_32
       rect:
         serializedVersion: 2
         x: 0
@@ -829,14 +829,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35051fcc68cac1d4dac9d032de60f815
-      internalID: -396538371
+      spriteID: 19aeeaadaeabe8040ac5834503b1e931
+      internalID: -1827638689
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_33
+      name: Yokai_Icons_33
       rect:
         serializedVersion: 2
         x: 64
@@ -851,14 +851,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6065ef663ad47e4890b4efd9a5b8b57
-      internalID: -1411850437
+      spriteID: 4b31e4975899193479c75ec10212046a
+      internalID: 9400530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_34
+      name: Yokai_Icons_34
       rect:
         serializedVersion: 2
         x: 128
@@ -873,14 +873,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02822e3c47b03e54fbb514b3aea734d9
-      internalID: -1638774443
+      spriteID: 35f63151c40ead34382c6b1a24ed2eca
+      internalID: -2046548018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_35
+      name: Yokai_Icons_35
       rect:
         serializedVersion: 2
         x: 192
@@ -895,14 +895,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c34a4b65c84c1b74a9c488ddf9c5b613
-      internalID: 2004138957
+      spriteID: eba5bb80706e6474489eff3dce0e478f
+      internalID: -917668487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_36
+      name: Yokai_Icons_36
       rect:
         serializedVersion: 2
         x: 256
@@ -917,14 +917,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d21dc97e5371345448dcedf13ebbcb5f
-      internalID: -1792157109
+      spriteID: dffa485318b61264da0cfb27c765837a
+      internalID: -1690734675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_37
+      name: Yokai_Icons_37
       rect:
         serializedVersion: 2
         x: 320
@@ -939,14 +939,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd5ad140c0a366546894b4a83b98dec9
-      internalID: -761940338
+      spriteID: 4a90706a1061ca04d9fa102159f6375e
+      internalID: 532802377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_38
+      name: Yokai_Icons_38
       rect:
         serializedVersion: 2
         x: 384
@@ -961,14 +961,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04c9b71dab714ee4aa449148dec35283
-      internalID: -215325483
+      spriteID: 8f6d239ed59338942b84494164dd6cfc
+      internalID: -1855422895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_39
+      name: Yokai_Icons_39
       rect:
         serializedVersion: 2
         x: 448
@@ -983,14 +983,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77b7a737af3517a4eba7c2add3c1522b
-      internalID: -148640742
+      spriteID: f9fa9a3ddd19104459918c81cca1572d
+      internalID: 1452041291
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_40
+      name: Yokai_Icons_40
       rect:
         serializedVersion: 2
         x: 0
@@ -1005,14 +1005,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 313c9e426608db542adf32ce70ef57fa
-      internalID: 1076878452
+      spriteID: e7991c98333acec4c9649e0e531da252
+      internalID: 450431580
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_41
+      name: Yokai_Icons_41
       rect:
         serializedVersion: 2
         x: 64
@@ -1027,14 +1027,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3c4329f2842a7a4a876b75a9f8b0a0b
-      internalID: 1933507442
+      spriteID: d9be97b7fd6145d4fbee5d2ce71dc25f
+      internalID: -2028895645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_42
+      name: Yokai_Icons_42
       rect:
         serializedVersion: 2
         x: 128
@@ -1049,14 +1049,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bdb6833ddf995f47b4c88f6f15fb771
-      internalID: -517277067
+      spriteID: 2e909749fa53a5244b6df843914edb37
+      internalID: -1296245448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_43
+      name: Yokai_Icons_43
       rect:
         serializedVersion: 2
         x: 192
@@ -1071,14 +1071,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd1290b123f0cb7479e25034fa55778f
-      internalID: 1446449385
+      spriteID: 2ee8f5874714a164db1312778ca4bdff
+      internalID: -785074489
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_44
+      name: Yokai_Icons_44
       rect:
         serializedVersion: 2
         x: 256
@@ -1093,14 +1093,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b488bfc9b45279540a69d6b737e6da69
-      internalID: 1301352695
+      spriteID: 9861b717296b066408b6386b2048fb9d
+      internalID: -1077404931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_45
+      name: Yokai_Icons_45
       rect:
         serializedVersion: 2
         x: 320
@@ -1115,14 +1115,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef4a2b16e2633834a9e5a138b0835387
-      internalID: -910005503
+      spriteID: 96623faa7141f3f44951b0bcde281b4d
+      internalID: 356838171
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_46
+      name: Yokai_Icons_46
       rect:
         serializedVersion: 2
         x: 384
@@ -1137,14 +1137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 565abc2146fcffb42986b85421cd84d8
-      internalID: -411170715
+      spriteID: 8a9c1eb51ceecdb4aae73a4a24e2a0e4
+      internalID: -445473071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_47
+      name: Yokai_Icons_47
       rect:
         serializedVersion: 2
         x: 448
@@ -1159,14 +1159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8c0347b2804b0e4397c0214d0d377e8
-      internalID: -96025343
+      spriteID: 977c41a2092319845b5702879c6060eb
+      internalID: -909949571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_48
+      name: Yokai_Icons_48
       rect:
         serializedVersion: 2
         x: 0
@@ -1181,14 +1181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c6a148fe6139df4880576b8d8100b4d
-      internalID: 1046070469
+      spriteID: 6c2c919c91f2e9a4facd9edbbfdb0584
+      internalID: -1298846001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_49
+      name: Yokai_Icons_49
       rect:
         serializedVersion: 2
         x: 64
@@ -1203,14 +1203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49579dd67c40dca4ba2b1c6c0078a466
-      internalID: -1979171876
+      spriteID: 9b4f21dd8705c4449bcf9bad5612eb62
+      internalID: 1848620965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_50
+      name: Yokai_Icons_50
       rect:
         serializedVersion: 2
         x: 128
@@ -1225,14 +1225,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 566cce5b647e90e4cb805f2b1b78f1cd
-      internalID: -1338774550
+      spriteID: b097128efc7d6334b87ed2b1040bab08
+      internalID: 593821967
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_51
+      name: Yokai_Icons_51
       rect:
         serializedVersion: 2
         x: 192
@@ -1247,14 +1247,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 871972cc84451f54290bf46d80aab1c0
-      internalID: -163435886
+      spriteID: ee13cbe800a520c4fbb5dbbc8b8e6d45
+      internalID: 935893525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_52
+      name: Yokai_Icons_52
       rect:
         serializedVersion: 2
         x: 256
@@ -1269,14 +1269,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a0de58000e8c6c40b298b87eb20a0ef
-      internalID: 988726470
+      spriteID: e23796c70c0039946966caa89c307e67
+      internalID: 692385697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_53
+      name: Yokai_Icons_53
       rect:
         serializedVersion: 2
         x: 320
@@ -1291,14 +1291,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b19dcb0088ad4bc489b84157f01b5dc0
-      internalID: 1508912728
+      spriteID: 89772022056e94f44bda646df4838092
+      internalID: 881142275
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_54
+      name: Yokai_Icons_54
       rect:
         serializedVersion: 2
         x: 384
@@ -1313,14 +1313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9626956579110d4f85b679f9a715511
-      internalID: -1192871701
+      spriteID: 03a62c4e8f85a3f419cb7a0edc2285c9
+      internalID: 740728680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_55
+      name: Yokai_Icons_55
       rect:
         serializedVersion: 2
         x: 448
@@ -1335,14 +1335,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 994ec539f4ec1d048b80016773c51cbc
-      internalID: 1944680389
+      spriteID: 04a816100ac424e44970c4772fb66d42
+      internalID: -379851114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_56
+      name: Yokai_Icons_56
       rect:
         serializedVersion: 2
         x: 0
@@ -1357,14 +1357,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e63c8902c82b38744a2cdb1ddc5580f0
-      internalID: 1905791923
+      spriteID: bb2111ef17c1c1b41aaeb77dc0ca2736
+      internalID: 1363959591
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_57
+      name: Yokai_Icons_57
       rect:
         serializedVersion: 2
         x: 64
@@ -1379,14 +1379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7668a4723c27cb4bb1852bb59d82403
-      internalID: -1734521044
+      spriteID: bef8de2883cf5844e9553bd8359261ba
+      internalID: -1560718302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_58
+      name: Yokai_Icons_58
       rect:
         serializedVersion: 2
         x: 128
@@ -1401,14 +1401,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: feb27a8e76dfac34bb6e9319befb8192
-      internalID: 26422376
+      spriteID: 1d174b2a87f03774fbea6cba0b06de18
+      internalID: -1661986250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_59
+      name: Yokai_Icons_59
       rect:
         serializedVersion: 2
         x: 192
@@ -1423,14 +1423,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 356ec1c0ffe1d8c47a0df1202f955df0
-      internalID: -1497824335
+      spriteID: 54bcd87ba0690b9429ec6dafbd5d107a
+      internalID: -1329836126
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_60
+      name: Yokai_Icons_60
       rect:
         serializedVersion: 2
         x: 256
@@ -1445,14 +1445,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4aef9d1877d21f144bf1bcd5deee957e
-      internalID: -838847942
+      spriteID: c4f3caf57750bd64d80f8ba1aefd9e2c
+      internalID: -557749552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_61
+      name: Yokai_Icons_61
       rect:
         serializedVersion: 2
         x: 320
@@ -1467,14 +1467,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bad7ebd13539d14493e5ea97d453680
-      internalID: 1263981906
+      spriteID: 8a48f4d6d62851d45bf95770974138d5
+      internalID: -431213571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_62
+      name: Yokai_Icons_62
       rect:
         serializedVersion: 2
         x: 384
@@ -1489,14 +1489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a119ce3960990e6469152a197164d825
-      internalID: -663044419
+      spriteID: a738e711dcf389c4693c9ded96f0d2c5
+      internalID: -785598648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_63
+      name: Yokai_Icons_63
       rect:
         serializedVersion: 2
         x: 448
@@ -1511,14 +1511,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acc281b0df5ba3947a9f38d2113ff6e9
-      internalID: 1246146965
+      spriteID: f07bc0f08a09d8c4c986653e3709858a
+      internalID: 1384492708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_64
+      name: Yokai_Icons_64
       rect:
         serializedVersion: 2
         x: 0
@@ -1533,14 +1533,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66d5ecea84ead334d93da70dc8d1b53f
-      internalID: 1307998235
+      spriteID: 8d04771b110a50642811d2f91ed29e85
+      internalID: 469962378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_65
+      name: Yokai_Icons_65
       rect:
         serializedVersion: 2
         x: 64
@@ -1555,14 +1555,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5daa12b4719ab9f4fad1ea1a0e3382a1
-      internalID: 1484312781
+      spriteID: 2bab0b16da01a1748a54b0b4f5e89e9a
+      internalID: 500379624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_66
+      name: Yokai_Icons_66
       rect:
         serializedVersion: 2
         x: 128
@@ -1577,14 +1577,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f7541048236b0942bdba872f2554b94
-      internalID: -438358416
+      spriteID: 7a47527e5c6989947814a03f06495405
+      internalID: -990772531
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_67
+      name: Yokai_Icons_67
       rect:
         serializedVersion: 2
         x: 192
@@ -1599,14 +1599,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22ae0fa4b66065548943eb6e2e50a135
-      internalID: 1750166435
+      spriteID: f7efd6e76ba736440ab011f200f581fb
+      internalID: -2015070547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_68
+      name: Yokai_Icons_68
       rect:
         serializedVersion: 2
         x: 256
@@ -1621,14 +1621,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87189842292298648b70ab13e8e56f4d
-      internalID: -1225257220
+      spriteID: f9cac7952165e0545b981245ba48235e
+      internalID: -18093325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_69
+      name: Yokai_Icons_69
       rect:
         serializedVersion: 2
         x: 320
@@ -1643,14 +1643,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d59b6d5b0b23d9941be51370ecf4b381
-      internalID: 1950212922
+      spriteID: 61317bd9a792c814e96a9c661eddae4b
+      internalID: 1235763939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_70
+      name: Yokai_Icons_70
       rect:
         serializedVersion: 2
         x: 384
@@ -1665,14 +1665,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f01a88852fa8f9848ae500efc6d4bcfa
-      internalID: 1882055997
+      spriteID: 5ad18b7cfecd03242b3497548911047d
+      internalID: 1940175276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_71
+      name: Yokai_Icons_71
       rect:
         serializedVersion: 2
         x: 448
@@ -1687,14 +1687,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f887c6509ac2b9c4abdc07324448dd81
-      internalID: -845584708
+      spriteID: edfbcee0ba5a8f54fae54d5a464bcd7d
+      internalID: 1654467978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_72
+      name: Yokai_Icons_72
       rect:
         serializedVersion: 2
         x: 0
@@ -1709,14 +1709,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbf52ab87411b834487cca74d76a546d
-      internalID: 505918759
+      spriteID: bfc6b02f44369ba4bb3c5d017d3cedaa
+      internalID: 1563428579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_73
+      name: Yokai_Icons_73
       rect:
         serializedVersion: 2
         x: 64
@@ -1731,14 +1731,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce9ccf0efae8cd74ca7501176bbb09d5
-      internalID: 364290921
+      spriteID: 59e64bc0daa83734fad22a5002b54efd
+      internalID: -1036089753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_74
+      name: Yokai_Icons_74
       rect:
         serializedVersion: 2
         x: 128
@@ -1753,14 +1753,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 425be7b46e2483a41a7557e14dc55e64
-      internalID: -1634154885
+      spriteID: 32bff87d0c9add24c93778d6e0b9f6d8
+      internalID: 2074472853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_75
+      name: Yokai_Icons_75
       rect:
         serializedVersion: 2
         x: 192
@@ -1775,14 +1775,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 785f62451b128cb4e800addb570614b4
-      internalID: 675120137
+      spriteID: 1dcaceb786d1b3249807c05135b0f54d
+      internalID: 1667157451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_76
+      name: Yokai_Icons_76
       rect:
         serializedVersion: 2
         x: 256
@@ -1797,14 +1797,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64076b5b52ac68643be4c2149d8bf6b1
-      internalID: 382647861
+      spriteID: f95fafb50c4597346924f2f32edce8a2
+      internalID: 961857999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_77
+      name: Yokai_Icons_77
       rect:
         serializedVersion: 2
         x: 320
@@ -1819,14 +1819,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11c8bb1dcd8dac14ba55663b47a6c347
-      internalID: -1152517606
+      spriteID: 83cacae39d6869743bc8992378e22a81
+      internalID: 122649505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_78
+      name: Yokai_Icons_78
       rect:
         serializedVersion: 2
         x: 384
@@ -1841,14 +1841,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40653f1cce823fa4996af6efd0e988ae
-      internalID: -2147341216
+      spriteID: fff2914605d27e2439b8030f53bf326c
+      internalID: -1614144015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_79
+      name: Yokai_Icons_79
       rect:
         serializedVersion: 2
         x: 448
@@ -1863,14 +1863,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02d6daed91cbe8a4caf68439c4d9b453
-      internalID: -800848519
+      spriteID: ad2e8041ce917b24faad629fb9626c9f
+      internalID: -1149282386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_80
+      name: Yokai_Icons_80
       rect:
         serializedVersion: 2
         x: 0
@@ -1885,14 +1885,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33397babe175e3e4e8750062ce925150
-      internalID: 1216314963
+      spriteID: e7a4518288aff8343a37d5e4a3a1cff9
+      internalID: 1869666699
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_81
+      name: Yokai_Icons_81
       rect:
         serializedVersion: 2
         x: 64
@@ -1907,14 +1907,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 482ea1fbb8f04f24a9c88a7eaa124669
-      internalID: -430002113
+      spriteID: f338b6b6ae546994d9681041ac9f9147
+      internalID: 354559346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_82
+      name: Yokai_Icons_82
       rect:
         serializedVersion: 2
         x: 128
@@ -1929,14 +1929,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99245bf8ea39ba14e97fc977f18e2d23
-      internalID: 1776154786
+      spriteID: 4b6cdff6665ddb7428a4f682c7a153d3
+      internalID: 2144362628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_83
+      name: Yokai_Icons_83
       rect:
         serializedVersion: 2
         x: 192
@@ -1951,14 +1951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 033a0686d9edf424eb2896763a8d6042
-      internalID: -1410114072
+      spriteID: 3c5fd76eef5bb9148ad5ffd81895a58c
+      internalID: -1784201208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_84
+      name: Yokai_Icons_84
       rect:
         serializedVersion: 2
         x: 256
@@ -1973,14 +1973,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28eee1ab38e256a4fb1aee17c86943e3
-      internalID: -1387232834
+      spriteID: 575e71f0163c5c34fa88e2fbac808f56
+      internalID: -327616199
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_85
+      name: Yokai_Icons_85
       rect:
         serializedVersion: 2
         x: 320
@@ -1995,14 +1995,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a8392d81bce6fd4db9b6c99f5e44d88
-      internalID: 1627557833
+      spriteID: 696b345f138d43345982307691997355
+      internalID: 462466919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_86
+      name: Yokai_Icons_86
       rect:
         serializedVersion: 2
         x: 384
@@ -2017,14 +2017,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 302fdb9fe84b2b64ab33f9542dfd8c5c
-      internalID: -1951400655
+      spriteID: ee2c2f80f4896d048a57a654644177ac
+      internalID: -774626289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_87
+      name: Yokai_Icons_87
       rect:
         serializedVersion: 2
         x: 448
@@ -2039,14 +2039,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70c3bb531a18f6442a50aa66bc317e40
-      internalID: -2022147173
+      spriteID: 117edbc1b1e41c8488cab933f22df96b
+      internalID: 841651809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_88
+      name: Yokai_Icons_88
       rect:
         serializedVersion: 2
         x: 0
@@ -2061,14 +2061,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bb96ba027159d6409a6f07f2dd7b751
-      internalID: -1174221405
+      spriteID: 66e3bb1f87d168745bbe1a65603e652d
+      internalID: -557860247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_89
+      name: Yokai_Icons_89
       rect:
         serializedVersion: 2
         x: 64
@@ -2083,14 +2083,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ae7d6654619dfc49b6416aa749b6f0b
-      internalID: -90074312
+      spriteID: 1225965b4945d1f49b6dbf81a53eef8d
+      internalID: 161213686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_90
+      name: Yokai_Icons_90
       rect:
         serializedVersion: 2
         x: 128
@@ -2105,14 +2105,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b9e985b7dc284b4e8e2054f889cbd85
-      internalID: -393399357
+      spriteID: e9676215104a4c845a953914ad8a942a
+      internalID: 849532860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_91
+      name: Yokai_Icons_91
       rect:
         serializedVersion: 2
         x: 192
@@ -2127,14 +2127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f811df90a053c246bef2cf2fd3f1437
-      internalID: 1235943238
+      spriteID: 2e3220cccb8354d4282ad3cd1d52294d
+      internalID: 1443211981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_92
+      name: Yokai_Icons_92
       rect:
         serializedVersion: 2
         x: 256
@@ -2149,14 +2149,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b7cb6e91af58974a963ae870f99d6fb
-      internalID: 796788710
+      spriteID: 637b5ce8852221d46a21a42c0bf3f59b
+      internalID: 1188575704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_93
+      name: Yokai_Icons_93
       rect:
         serializedVersion: 2
         x: 320
@@ -2171,14 +2171,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd51df6de4651bd4cb0292970c99c4b9
-      internalID: -1361570195
+      spriteID: e2aa6f84f78a6f0438c221d5df617183
+      internalID: 521196771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_94
+      name: Yokai_Icons_94
       rect:
         serializedVersion: 2
         x: 384
@@ -2193,14 +2193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4850dcc57fb60804ab87df71635936c5
-      internalID: 1637813263
+      spriteID: 3967768dfe8b0fb479a08c4771c2a122
+      internalID: -46890124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_95
+      name: Yokai_Icons_95
       rect:
         serializedVersion: 2
         x: 448
@@ -2215,14 +2215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b9d64d0c1f38aa4f8b51ddfd9bf628e
-      internalID: 1965008103
+      spriteID: 4048ee22e8e30584f893b38785df0cf5
+      internalID: 699264001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_96
+      name: Yokai_Icons_96
       rect:
         serializedVersion: 2
         x: 0
@@ -2237,14 +2237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 308a1fb5ee0cbfc4394890fdba52209a
-      internalID: 1051169733
+      spriteID: fe59af8a0a2c6664797613e21def91bd
+      internalID: 1723758241
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_97
+      name: Yokai_Icons_97
       rect:
         serializedVersion: 2
         x: 64
@@ -2259,14 +2259,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49163d8fa9882b54698a451b586c9899
-      internalID: 1830823509
+      spriteID: f45db8ae184a5a54081a4b841d53095d
+      internalID: -532775933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_98
+      name: Yokai_Icons_98
       rect:
         serializedVersion: 2
         x: 128
@@ -2281,14 +2281,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80eb47fc4a19f964d8e0f1a16c623166
-      internalID: -1797927973
+      spriteID: 01d1bb1b8e1a8f14dad862b4334e71a8
+      internalID: -469409726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: icon_ykw_wib_wob_99
+      name: Yokai_Icons_99
       rect:
         serializedVersion: 2
         x: 192
@@ -2303,8 +2303,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c95cc4d7d0bf2b243a3a9aacde51dcd1
-      internalID: 924079899
+      spriteID: d4ddcb4e6a79e1e4d91d608daa69f275
+      internalID: 916514988
       vertices: []
       indices: 
       edges: []
@@ -2325,106 +2325,106 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      icon_ykw_wib_wob_0: 310043620
-      icon_ykw_wib_wob_1: 1506131739
-      icon_ykw_wib_wob_10: 1603102894
-      icon_ykw_wib_wob_11: -975325502
-      icon_ykw_wib_wob_12: 206270719
-      icon_ykw_wib_wob_13: -634788768
-      icon_ykw_wib_wob_14: -576918850
-      icon_ykw_wib_wob_15: -568748324
-      icon_ykw_wib_wob_16: 603478584
-      icon_ykw_wib_wob_17: -504046689
-      icon_ykw_wib_wob_18: -273331044
-      icon_ykw_wib_wob_19: 548999457
-      icon_ykw_wib_wob_2: -1578727557
-      icon_ykw_wib_wob_20: -1465692158
-      icon_ykw_wib_wob_21: 1425585968
-      icon_ykw_wib_wob_22: 1763426471
-      icon_ykw_wib_wob_23: 2024838482
-      icon_ykw_wib_wob_24: -354657483
-      icon_ykw_wib_wob_25: -1404656169
-      icon_ykw_wib_wob_26: 309945662
-      icon_ykw_wib_wob_27: 18138526
-      icon_ykw_wib_wob_28: -1038050156
-      icon_ykw_wib_wob_29: -1610002427
-      icon_ykw_wib_wob_3: -1345938129
-      icon_ykw_wib_wob_30: 1614792568
-      icon_ykw_wib_wob_31: -241051092
-      icon_ykw_wib_wob_32: -396538371
-      icon_ykw_wib_wob_33: -1411850437
-      icon_ykw_wib_wob_34: -1638774443
-      icon_ykw_wib_wob_35: 2004138957
-      icon_ykw_wib_wob_36: -1792157109
-      icon_ykw_wib_wob_37: -761940338
-      icon_ykw_wib_wob_38: -215325483
-      icon_ykw_wib_wob_39: -148640742
-      icon_ykw_wib_wob_4: 220032565
-      icon_ykw_wib_wob_40: 1076878452
-      icon_ykw_wib_wob_41: 1933507442
-      icon_ykw_wib_wob_42: -517277067
-      icon_ykw_wib_wob_43: 1446449385
-      icon_ykw_wib_wob_44: 1301352695
-      icon_ykw_wib_wob_45: -910005503
-      icon_ykw_wib_wob_46: -411170715
-      icon_ykw_wib_wob_47: -96025343
-      icon_ykw_wib_wob_48: 1046070469
-      icon_ykw_wib_wob_49: -1979171876
-      icon_ykw_wib_wob_5: 358247334
-      icon_ykw_wib_wob_50: -1338774550
-      icon_ykw_wib_wob_51: -163435886
-      icon_ykw_wib_wob_52: 988726470
-      icon_ykw_wib_wob_53: 1508912728
-      icon_ykw_wib_wob_54: -1192871701
-      icon_ykw_wib_wob_55: 1944680389
-      icon_ykw_wib_wob_56: 1905791923
-      icon_ykw_wib_wob_57: -1734521044
-      icon_ykw_wib_wob_58: 26422376
-      icon_ykw_wib_wob_59: -1497824335
-      icon_ykw_wib_wob_6: -1781828468
-      icon_ykw_wib_wob_60: -838847942
-      icon_ykw_wib_wob_61: 1263981906
-      icon_ykw_wib_wob_62: -663044419
-      icon_ykw_wib_wob_63: 1246146965
-      icon_ykw_wib_wob_64: 1307998235
-      icon_ykw_wib_wob_65: 1484312781
-      icon_ykw_wib_wob_66: -438358416
-      icon_ykw_wib_wob_67: 1750166435
-      icon_ykw_wib_wob_68: -1225257220
-      icon_ykw_wib_wob_69: 1950212922
-      icon_ykw_wib_wob_7: -699562604
-      icon_ykw_wib_wob_70: 1882055997
-      icon_ykw_wib_wob_71: -845584708
-      icon_ykw_wib_wob_72: 505918759
-      icon_ykw_wib_wob_73: 364290921
-      icon_ykw_wib_wob_74: -1634154885
-      icon_ykw_wib_wob_75: 675120137
-      icon_ykw_wib_wob_76: 382647861
-      icon_ykw_wib_wob_77: -1152517606
-      icon_ykw_wib_wob_78: -2147341216
-      icon_ykw_wib_wob_79: -800848519
-      icon_ykw_wib_wob_8: 1096732917
-      icon_ykw_wib_wob_80: 1216314963
-      icon_ykw_wib_wob_81: -430002113
-      icon_ykw_wib_wob_82: 1776154786
-      icon_ykw_wib_wob_83: -1410114072
-      icon_ykw_wib_wob_84: -1387232834
-      icon_ykw_wib_wob_85: 1627557833
-      icon_ykw_wib_wob_86: -1951400655
-      icon_ykw_wib_wob_87: -2022147173
-      icon_ykw_wib_wob_88: -1174221405
-      icon_ykw_wib_wob_89: -90074312
-      icon_ykw_wib_wob_9: -939549684
-      icon_ykw_wib_wob_90: -393399357
-      icon_ykw_wib_wob_91: 1235943238
-      icon_ykw_wib_wob_92: 796788710
-      icon_ykw_wib_wob_93: -1361570195
-      icon_ykw_wib_wob_94: 1637813263
-      icon_ykw_wib_wob_95: 1965008103
-      icon_ykw_wib_wob_96: 1051169733
-      icon_ykw_wib_wob_97: 1830823509
-      icon_ykw_wib_wob_98: -1797927973
-      icon_ykw_wib_wob_99: 924079899
+      Yokai_Icons_0: -2411146
+      Yokai_Icons_1: -644646783
+      Yokai_Icons_10: 225966324
+      Yokai_Icons_11: -909785175
+      Yokai_Icons_12: 658984324
+      Yokai_Icons_13: 1639037155
+      Yokai_Icons_14: 262059766
+      Yokai_Icons_15: 686269260
+      Yokai_Icons_16: 1220673540
+      Yokai_Icons_17: 696913741
+      Yokai_Icons_18: -432994300
+      Yokai_Icons_19: -68129415
+      Yokai_Icons_2: -598069533
+      Yokai_Icons_20: -1004785106
+      Yokai_Icons_21: -1587667916
+      Yokai_Icons_22: -653087397
+      Yokai_Icons_23: 1610592815
+      Yokai_Icons_24: 2003698531
+      Yokai_Icons_25: -951088175
+      Yokai_Icons_26: 1675662514
+      Yokai_Icons_27: -495811782
+      Yokai_Icons_28: -1753792589
+      Yokai_Icons_29: -1562264526
+      Yokai_Icons_3: 1222066456
+      Yokai_Icons_30: 2044334614
+      Yokai_Icons_31: 225096389
+      Yokai_Icons_32: -1827638689
+      Yokai_Icons_33: 9400530
+      Yokai_Icons_34: -2046548018
+      Yokai_Icons_35: -917668487
+      Yokai_Icons_36: -1690734675
+      Yokai_Icons_37: 532802377
+      Yokai_Icons_38: -1855422895
+      Yokai_Icons_39: 1452041291
+      Yokai_Icons_4: -850246956
+      Yokai_Icons_40: 450431580
+      Yokai_Icons_41: -2028895645
+      Yokai_Icons_42: -1296245448
+      Yokai_Icons_43: -785074489
+      Yokai_Icons_44: -1077404931
+      Yokai_Icons_45: 356838171
+      Yokai_Icons_46: -445473071
+      Yokai_Icons_47: -909949571
+      Yokai_Icons_48: -1298846001
+      Yokai_Icons_49: 1848620965
+      Yokai_Icons_5: -837164508
+      Yokai_Icons_50: 593821967
+      Yokai_Icons_51: 935893525
+      Yokai_Icons_52: 692385697
+      Yokai_Icons_53: 881142275
+      Yokai_Icons_54: 740728680
+      Yokai_Icons_55: -379851114
+      Yokai_Icons_56: 1363959591
+      Yokai_Icons_57: -1560718302
+      Yokai_Icons_58: -1661986250
+      Yokai_Icons_59: -1329836126
+      Yokai_Icons_6: -763855752
+      Yokai_Icons_60: -557749552
+      Yokai_Icons_61: -431213571
+      Yokai_Icons_62: -785598648
+      Yokai_Icons_63: 1384492708
+      Yokai_Icons_64: 469962378
+      Yokai_Icons_65: 500379624
+      Yokai_Icons_66: -990772531
+      Yokai_Icons_67: -2015070547
+      Yokai_Icons_68: -18093325
+      Yokai_Icons_69: 1235763939
+      Yokai_Icons_7: -1462010888
+      Yokai_Icons_70: 1940175276
+      Yokai_Icons_71: 1654467978
+      Yokai_Icons_72: 1563428579
+      Yokai_Icons_73: -1036089753
+      Yokai_Icons_74: 2074472853
+      Yokai_Icons_75: 1667157451
+      Yokai_Icons_76: 961857999
+      Yokai_Icons_77: 122649505
+      Yokai_Icons_78: -1614144015
+      Yokai_Icons_79: -1149282386
+      Yokai_Icons_8: 1383323180
+      Yokai_Icons_80: 1869666699
+      Yokai_Icons_81: 354559346
+      Yokai_Icons_82: 2144362628
+      Yokai_Icons_83: -1784201208
+      Yokai_Icons_84: -327616199
+      Yokai_Icons_85: 462466919
+      Yokai_Icons_86: -774626289
+      Yokai_Icons_87: 841651809
+      Yokai_Icons_88: -557860247
+      Yokai_Icons_89: 161213686
+      Yokai_Icons_9: -618720215
+      Yokai_Icons_90: 849532860
+      Yokai_Icons_91: 1443211981
+      Yokai_Icons_92: 1188575704
+      Yokai_Icons_93: 521196771
+      Yokai_Icons_94: -46890124
+      Yokai_Icons_95: 699264001
+      Yokai_Icons_96: 1723758241
+      Yokai_Icons_97: -532775933
+      Yokai_Icons_98: -469409726
+      Yokai_Icons_99: 916514988
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

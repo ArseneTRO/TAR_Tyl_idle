@@ -573,6 +573,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1800858347}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
       objectReference: {fileID: 1160578706}
@@ -1531,6 +1535,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1800858347}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
       objectReference: {fileID: 1160578706}
@@ -1889,13 +1897,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 135222d2292147447be6916ffa0b990e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Shop
+  PowerShop: 0
+  PriceShop: 0
+  IsActive: 0
   GoldAmount: {fileID: 1160578706}
-  Power: 25
-  Price: 100
   Prix: {fileID: 1940385961}
   ShopScreen: {fileID: 0}
   PauseSystem: {fileID: 0}
-  actif: 0
 --- !u!114 &424631425
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2381,6 +2389,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1800858347}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
       objectReference: {fileID: 1160578706}
@@ -2521,6 +2533,10 @@ PrefabInstance:
       propertyPath: GMText
       value: 
       objectReference: {fileID: 1800858347}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
@@ -2923,6 +2939,10 @@ PrefabInstance:
       propertyPath: GMText
       value: 
       objectReference: {fileID: 1800858347}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
@@ -3649,6 +3669,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1800858347}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
       objectReference: {fileID: 1160578706}
@@ -3793,6 +3817,10 @@ PrefabInstance:
       propertyPath: GMText
       value: 
       objectReference: {fileID: 1800858347}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
@@ -4091,6 +4119,10 @@ PrefabInstance:
       propertyPath: GMText
       value: 
       objectReference: {fileID: 1800858347}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
@@ -4608,6 +4640,10 @@ PrefabInstance:
       propertyPath: GMText
       value: 
       objectReference: {fileID: 1800858347}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
@@ -5265,6 +5301,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1800858347}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
       objectReference: {fileID: 1160578706}
@@ -5535,6 +5575,10 @@ PrefabInstance:
       propertyPath: GMText
       value: 
       objectReference: {fileID: 1800858347}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
@@ -6489,10 +6533,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97109b1a2acedcb4c8e2682d6ce930c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ScriptTestButton
+  Power: 1
+  Wallet: 0
   goldText: {fileID: 1800858347}
   WalletShop: {fileID: 2027887379}
-  Wallet: 0
-  Power: 1
   Shop: {fileID: 1347620563}
 --- !u!4 &1160578707
 Transform:
@@ -6746,6 +6790,10 @@ PrefabInstance:
       propertyPath: GMText
       value: 
       objectReference: {fileID: 1800858347}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
@@ -7155,6 +7203,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1800858347}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
       objectReference: {fileID: 1160578706}
@@ -7306,13 +7358,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 135222d2292147447be6916ffa0b990e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Shop
+  PowerShop: 0
+  PriceShop: 0
+  IsActive: 0
   GoldAmount: {fileID: 1160578706}
-  Power: 1
-  Price: 10
   Prix: {fileID: 1917435799}
   ShopScreen: {fileID: 0}
   PauseSystem: {fileID: 0}
-  actif: 0
 --- !u!114 &1280628477
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7641,13 +7693,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 135222d2292147447be6916ffa0b990e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Shop
+  PowerShop: 0
+  PriceShop: 0
+  IsActive: 0
   GoldAmount: {fileID: 1160578706}
-  Power: 0
-  Price: 0
   Prix: {fileID: 0}
   ShopScreen: {fileID: 2108595013}
   PauseSystem: {fileID: 913124161}
-  actif: 0
 --- !u!114 &1347620564
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8034,13 +8086,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 135222d2292147447be6916ffa0b990e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Shop
+  PowerShop: 0
+  PriceShop: 0
+  IsActive: 0
   GoldAmount: {fileID: 1160578706}
-  Power: 100
-  Price: 200
   Prix: {fileID: 1112345077}
   ShopScreen: {fileID: 0}
   PauseSystem: {fileID: 0}
-  actif: 0
 --- !u!114 &1489389712
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8187,13 +8239,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 135222d2292147447be6916ffa0b990e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Shop
+  PowerShop: 0
+  PriceShop: 0
+  IsActive: 0
   GoldAmount: {fileID: 1160578706}
-  Power: 60
-  Price: 150
   Prix: {fileID: 816463602}
   ShopScreen: {fileID: 0}
   PauseSystem: {fileID: 0}
-  actif: 0
 --- !u!114 &1494186215
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8393,6 +8445,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1800858347}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
       objectReference: {fileID: 1160578706}
@@ -8527,6 +8583,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1800858347}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
       objectReference: {fileID: 1160578706}
@@ -8608,13 +8668,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 135222d2292147447be6916ffa0b990e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Shop
+  PowerShop: 0
+  PriceShop: 0
+  IsActive: 0
   GoldAmount: {fileID: 1160578706}
-  Power: 10
-  Price: 50
   Prix: {fileID: 2020850715}
   ShopScreen: {fileID: 0}
   PauseSystem: {fileID: 0}
-  actif: 0
 --- !u!114 &1511596974
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8904,6 +8964,10 @@ PrefabInstance:
       propertyPath: GMText
       value: 
       objectReference: {fileID: 1800858347}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
@@ -9500,6 +9564,10 @@ PrefabInstance:
       propertyPath: GMText
       value: 
       objectReference: {fileID: 1800858347}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
@@ -10463,6 +10531,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1800858347}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
       objectReference: {fileID: 1160578706}
@@ -10730,6 +10802,10 @@ PrefabInstance:
       propertyPath: GMText
       value: 
       objectReference: {fileID: 1800858347}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
@@ -11120,6 +11196,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1800858347}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 
       objectReference: {fileID: 1160578706}
@@ -11338,13 +11418,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 135222d2292147447be6916ffa0b990e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Shop
+  PowerShop: 0
+  PriceShop: 0
+  IsActive: 0
   GoldAmount: {fileID: 1160578706}
-  Power: 5
-  Price: 25
   Prix: {fileID: 376951433}
   ShopScreen: {fileID: 0}
   PauseSystem: {fileID: 0}
-  actif: 0
 --- !u!114 &1975042206
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12655,6 +12735,10 @@ PrefabInstance:
       propertyPath: GMText
       value: 
       objectReference: {fileID: 1800858347}
+    - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
+      propertyPath: yokaiData
+      value: 
+      objectReference: {fileID: 11400000, guid: d8eabdbca9f2aac45b7f55568357dffa, type: 2}
     - target: {fileID: 3892890194846768745, guid: 529308fdee5e7954497f2de50d5fbd3a, type: 3}
       propertyPath: GoldAmount
       value: 

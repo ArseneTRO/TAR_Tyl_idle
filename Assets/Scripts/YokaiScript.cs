@@ -8,16 +8,20 @@ using UnityEngine.UI;
 
 public class YokaiScript : MonoBehaviour
 {
+    [Header("Variable")]
     public int YK;
-    public GoldButtonScript GoldAmount;
-    public float Temps;
+    public float Time;
     public int Price;
     public int Value;
+    public float Power;
+
+    [Header("References")]
+    public Sprite Sprite;
+    public YokaiMaker yokaiData;
+    public GoldButtonScript GoldAmount;
     public Image icon;
-    public GameObject go;
     public PauseSystem pauseSystem;
     public TextMeshProUGUI InfoYokai;
-    public float Power;
     public TextMeshProUGUI PowerData;
     public YokaiManager yokaiManager;
 
@@ -27,11 +31,13 @@ public class YokaiScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        icon.sprite = yokaiData.Image;
+        Price = yokaiData.Price;
+        Value = yokaiData.Value;
+        Time = yokaiData.Time;
 
         StartCoroutine(MyCoroutine());
         YK = 0;
-
-        icon = GetComponent<Image>();
     }
 
     void Update()
@@ -39,7 +45,7 @@ public class YokaiScript : MonoBehaviour
         if (GoldAmount.Wallet >= Price)
         {
             icon.color = Color.white;
-            InfoYokai.text = $"{FormatNumber(Price)}G {FormatNumber(Value)}G/{Temps}sec";
+            InfoYokai.text = $"{FormatNumber(Price)}G {FormatNumber(Value)}G/{Time}sec";
         }
         else
         {
@@ -74,7 +80,7 @@ public class YokaiScript : MonoBehaviour
             {
                 Yokai();
             }
-            yield return new WaitForSeconds(Temps);
+            yield return new WaitForSeconds(Time);
         }
     }
     public void Yokai()
@@ -91,8 +97,9 @@ public class YokaiScript : MonoBehaviour
             YK += 1;
             Price = Mathf.CeilToInt(Price * 1.20f);
             
-            yokaiManager.Power += Value / Temps;
-            
+            yokaiManager.Power += Value/Time;
+            print("Yokai Bought");
+            print(Value/Time);
         }
     }
 

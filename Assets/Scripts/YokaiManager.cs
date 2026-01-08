@@ -8,6 +8,7 @@ public class YokaiManager : MonoBehaviour
     public List<YokaiScript> yokais;
     public GoldButtonScript GoldAmount;
     public TextMeshProUGUI PowerData;
+    
     public float Power;
 
     void Start()
@@ -16,7 +17,7 @@ public class YokaiManager : MonoBehaviour
     }
     void Update()
     {
-        PowerData.text = $"Power: {FormatNumber(Power)}/sec";
+        PowerData.text = $"PowerShop: {FormatNumber(Power)}/sec";
 
         
     }
